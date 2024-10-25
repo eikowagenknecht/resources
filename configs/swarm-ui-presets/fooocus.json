@@ -1,0 +1,2487 @@
+{
+  "fooocus/abstract-expressionism": {
+    "author": "local",
+    "title": "fooocus/abstract-expressionism",
+    "description": "Fooocus \"Abstract Expressionism\"",
+    "param_map": {
+      "prompt": "Abstract Expressionism Art, {value}, High contrast, minimalistic, colorful, stark, dramatic, expressionism",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
+    }
+  },
+  "fooocus/cinematic-diva": {
+    "author": "local",
+    "title": "fooocus/cinematic-diva",
+    "description": "Fooocus \"cinematic-diva\"",
+    "param_map": {
+      "prompt": "UHD, 8K, ultra detailed, a cinematic photograph of {value}, beautiful lighting, great composition",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, NSFW"
+    }
+  },
+  "fooocus/action-figure": {
+    "author": "local",
+    "title": "fooocus/action-figure",
+    "description": "Fooocus \"Action Figure\"",
+    "param_map": {
+      "prompt": "Action Figure, {value}, plastic collectable action figure, collectable toy action figure",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/academia": {
+    "author": "local",
+    "title": "fooocus/academia",
+    "description": "Fooocus \"Academia\"",
+    "param_map": {
+      "prompt": "Academia, {value}, preppy Ivy League style, stark, dramatic, chic boarding school, academia",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, grunge, sloppy, unkempt"
+    }
+  },
+  "fooocus/adorable-3d-character": {
+    "author": "local",
+    "title": "fooocus/adorable-3d-character",
+    "description": "Fooocus \"Adorable 3D Character\"",
+    "param_map": {
+      "prompt": "Adorable 3D Character, {value}, 3D render, adorable character, 3D art",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, grunge, sloppy, unkempt, photograph, photo, realistic"
+    }
+  },
+  "fooocus/adorable-kawaii": {
+    "author": "local",
+    "title": "fooocus/adorable-kawaii",
+    "description": "Fooocus \"Adorable Kawaii\"",
+    "param_map": {
+      "prompt": "Adorable Kawaii, {value}, pretty, cute, adorable, kawaii",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, gothic, dark, moody, monochromatic"
+    }
+  },
+  "fooocus/art-deco": {
+    "author": "local",
+    "title": "fooocus/art-deco",
+    "description": "Fooocus \"Art Deco\"",
+    "param_map": {
+      "prompt": "Art Deco, {value}, sleek, geometric forms, art deco style",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/art-nouveau": {
+    "author": "local",
+    "title": "fooocus/art-nouveau",
+    "description": "Fooocus \"Art Nouveau\"",
+    "param_map": {
+      "prompt": "Art Nouveau, beautiful art, {value}, sleek, organic forms, long, sinuous, art nouveau style",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, industrial, mechanical"
+    }
+  },
+  "fooocus/astral-aura": {
+    "author": "local",
+    "title": "fooocus/astral-aura",
+    "description": "Fooocus \"Astral Aura\"",
+    "param_map": {
+      "prompt": "Astral Aura, {value}, astral, colorful aura, vibrant energy",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/baroque": {
+    "author": "local",
+    "title": "fooocus/baroque",
+    "description": "Fooocus \"Baroque\"",
+    "param_map": {
+      "prompt": "Baroque, {value}, dramatic, exuberant, grandeur, baroque art",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/avant-garde": {
+    "author": "local",
+    "title": "fooocus/avant-garde",
+    "description": "Fooocus \"Avant-garde\"",
+    "param_map": {
+      "prompt": "Avant-garde, {value}, unusual, experimental, avant-garde art",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/bauhaus-style-poster": {
+    "author": "local",
+    "title": "fooocus/bauhaus-style-poster",
+    "description": "Fooocus \"Bauhaus-Style Poster\"",
+    "param_map": {
+      "prompt": "Bauhaus-Style Poster, {value}, simple geometric shapes, clean lines, primary colors, Bauhaus-Style Poster",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/blueprint-schematic-drawing": {
+    "author": "local",
+    "title": "fooocus/blueprint-schematic-drawing",
+    "description": "Fooocus \"Blueprint Schematic Drawing\"",
+    "param_map": {
+      "prompt": "Blueprint Schematic Drawing, {value}, technical drawing, blueprint, schematic",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/caricature": {
+    "author": "local",
+    "title": "fooocus/caricature",
+    "description": "Fooocus \"Caricature\"",
+    "param_map": {
+      "prompt": "Caricature, {value}, exaggerated, comical, caricature",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, realistic"
+    }
+  },
+  "fooocus/cel-shaded-art": {
+    "author": "local",
+    "title": "fooocus/cel-shaded-art",
+    "description": "Fooocus \"Cel Shaded Art\"",
+    "param_map": {
+      "prompt": "Cel Shaded Art, {value}, 2D, flat color, toon shading, cel shaded style",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/character-design-sheet": {
+    "author": "local",
+    "title": "fooocus/character-design-sheet",
+    "description": "Fooocus \"Character Design Sheet\"",
+    "param_map": {
+      "prompt": "Character Design Sheet, {value}, character reference sheet, character turn around",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/colored-pencil-art": {
+    "author": "local",
+    "title": "fooocus/colored-pencil-art",
+    "description": "Fooocus \"Colored Pencil Art\"",
+    "param_map": {
+      "prompt": "Colored Pencil Art, {value}, colored pencil strokes, light color, visible paper texture, colored pencil art",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/color-field-painting": {
+    "author": "local",
+    "title": "fooocus/color-field-painting",
+    "description": "Fooocus \"Color Field Painting\"",
+    "param_map": {
+      "prompt": "Color Field Painting, {value}, abstract, simple, geometic, color field painting style",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/classicism-art": {
+    "author": "local",
+    "title": "fooocus/classicism-art",
+    "description": "Fooocus \"Classicism Art\"",
+    "param_map": {
+      "prompt": "Classicism Art, {value}, inspired by Roman and Greek culture, clarity, harmonious, classicism art",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/conceptual-art": {
+    "author": "local",
+    "title": "fooocus/conceptual-art",
+    "description": "Fooocus \"Conceptual Art\"",
+    "param_map": {
+      "prompt": "Conceptual Art, {value}, concept art",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/cubism": {
+    "author": "local",
+    "title": "fooocus/cubism",
+    "description": "Fooocus \"Cubism\"",
+    "param_map": {
+      "prompt": "Cubism Art, {value}, flat geometric forms, cubism art",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/constructivism": {
+    "author": "local",
+    "title": "fooocus/constructivism",
+    "description": "Fooocus \"Constructivism\"",
+    "param_map": {
+      "prompt": "Constructivism Art, {value}, minimalistic, geometric forms, constructivism art",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/dark-fantasy": {
+    "author": "local",
+    "title": "fooocus/dark-fantasy",
+    "description": "Fooocus \"Dark Fantasy\"",
+    "param_map": {
+      "prompt": "Dark Fantasy Art, {value}, dark, moody, dark fantasy style",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, bright, sunny"
+    }
+  },
+  "fooocus/dadaism": {
+    "author": "local",
+    "title": "fooocus/dadaism",
+    "description": "Fooocus \"Dadaism\"",
+    "param_map": {
+      "prompt": "Dadaism Art, {value}, satirical, nonsensical, dadaism art",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/dark-moody-atmosphere": {
+    "author": "local",
+    "title": "fooocus/dark-moody-atmosphere",
+    "description": "Fooocus \"Dark Moody Atmosphere\"",
+    "param_map": {
+      "prompt": "Dark Moody Atmosphere, {value}, dramatic, mysterious, dark moody atmosphere",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, vibrant, colorful, bright"
+    }
+  },
+  "fooocus/dmt-art-style": {
+    "author": "local",
+    "title": "fooocus/dmt-art-style",
+    "description": "Fooocus \"DMT Art Style\"",
+    "param_map": {
+      "prompt": "DMT Art Style, {value}, bright colors, surreal visuals, swirling patterns, DMT art style",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/doodle-art": {
+    "author": "local",
+    "title": "fooocus/doodle-art",
+    "description": "Fooocus \"Doodle Art\"",
+    "param_map": {
+      "prompt": "Doodle Art Style, {value}, drawing, freeform, swirling patterns, doodle art style",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/double-exposure": {
+    "author": "local",
+    "title": "fooocus/double-exposure",
+    "description": "Fooocus \"Double Exposure\"",
+    "param_map": {
+      "prompt": "Double Exposure Style, {value}, double image ghost effect, image combination, double exposure style",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/dripping-paint-splatter-art": {
+    "author": "local",
+    "title": "fooocus/dripping-paint-splatter-art",
+    "description": "Fooocus \"Dripping Paint Splatter Art\"",
+    "param_map": {
+      "prompt": "Dripping Paint Splatter Art, {value}, dramatic, paint drips, splatters, dripping paint",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/faded-polaroid-photo": {
+    "author": "local",
+    "title": "fooocus/faded-polaroid-photo",
+    "description": "Fooocus \"Faded Polaroid Photo\"",
+    "param_map": {
+      "prompt": "Faded Polaroid Photo, {value}, analog, old faded photo, old polaroid",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, vibrant, colorful"
+    }
+  },
+  "fooocus/expressionism": {
+    "author": "local",
+    "title": "fooocus/expressionism",
+    "description": "Fooocus \"Expressionism\"",
+    "param_map": {
+      "prompt": "Expressionism Art Style, {value}, movement, contrast, emotional, exaggerated forms, expressionism art style",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/fauvism": {
+    "author": "local",
+    "title": "fooocus/fauvism",
+    "description": "Fooocus \"Fauvism\"",
+    "param_map": {
+      "prompt": "Fauvism Art, {value}, painterly, bold colors, textured brushwork, fauvism art",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/flat-2d-art": {
+    "author": "local",
+    "title": "fooocus/flat-2d-art",
+    "description": "Fooocus \"Flat 2D Art\"",
+    "param_map": {
+      "prompt": "Flat 2D Art, {value}, simple flat color, 2-dimensional, Flat 2D Art Style",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, 3D, photo, realistic"
+    }
+  },
+  "fooocus/fortnite-art-style": {
+    "author": "local",
+    "title": "fooocus/fortnite-art-style",
+    "description": "Fooocus \"Fortnite Art Style\"",
+    "param_map": {
+      "prompt": "Fortnite Art Style, {value}, 3D cartoon, colorful, Fortnite Art Style",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, photo, realistic"
+    }
+  },
+  "fooocus/futurism": {
+    "author": "local",
+    "title": "fooocus/futurism",
+    "description": "Fooocus \"Futurism\"",
+    "param_map": {
+      "prompt": "Futurism Art Style, {value}, dynamic, dramatic, Futurism Art Style",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/glitchcore": {
+    "author": "local",
+    "title": "fooocus/glitchcore",
+    "description": "Fooocus \"Glitchcore\"",
+    "param_map": {
+      "prompt": "Glitchcore Art Style, {value}, dynamic, dramatic, distorted, vibrant colors, glitchcore art style",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/glo-fi": {
+    "author": "local",
+    "title": "fooocus/glo-fi",
+    "description": "Fooocus \"Glo-fi\"",
+    "param_map": {
+      "prompt": "Glo-fi Art Style, {value}, dynamic, dramatic, vibrant colors, glo-fi art style",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/googie-art-style": {
+    "author": "local",
+    "title": "fooocus/googie-art-style",
+    "description": "Fooocus \"Googie Art Style\"",
+    "param_map": {
+      "prompt": "Googie Art Style, {value}, dynamic, dramatic, 1950's futurism, bold boomerang angles, Googie art style",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/harlem-renaissance-art": {
+    "author": "local",
+    "title": "fooocus/harlem-renaissance-art",
+    "description": "Fooocus \"Harlem Renaissance Art\"",
+    "param_map": {
+      "prompt": "Harlem Renaissance Art Style, {value}, dynamic, dramatic, 1920s African American culture, Harlem Renaissance art style",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/graffiti-art": {
+    "author": "local",
+    "title": "fooocus/graffiti-art",
+    "description": "Fooocus \"Graffiti Art\"",
+    "param_map": {
+      "prompt": "Graffiti Art Style, {value}, dynamic, dramatic, vibrant colors, graffiti art style",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/high-fashion": {
+    "author": "local",
+    "title": "fooocus/high-fashion",
+    "description": "Fooocus \"High Fashion\"",
+    "param_map": {
+      "prompt": "High Fashion, {value}, dynamic, dramatic, haute couture, elegant, ornate clothing, High Fashion",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/idyllic": {
+    "author": "local",
+    "title": "fooocus/idyllic",
+    "description": "Fooocus \"Idyllic\"",
+    "param_map": {
+      "prompt": "Idyllic, {value}, peaceful, happy, pleasant, happy, harmonious, picturesque, charming",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/impressionism": {
+    "author": "local",
+    "title": "fooocus/impressionism",
+    "description": "Fooocus \"Impressionism\"",
+    "param_map": {
+      "prompt": "Impressionism, {value}, painterly, small brushstrokes, visible brushstrokes, impressionistic style",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/infographic-drawing": {
+    "author": "local",
+    "title": "fooocus/infographic-drawing",
+    "description": "Fooocus \"Infographic Drawing\"",
+    "param_map": {
+      "prompt": "Infographic Drawing, {value}, diagram, infographic",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/ink-dripping-drawing": {
+    "author": "local",
+    "title": "fooocus/ink-dripping-drawing",
+    "description": "Fooocus \"Ink Dripping Drawing\"",
+    "param_map": {
+      "prompt": "Ink Dripping Drawing, {value}, ink drawing, dripping ink",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, colorful, vibrant"
+    }
+  },
+  "fooocus/japanese-ink-drawing": {
+    "author": "local",
+    "title": "fooocus/japanese-ink-drawing",
+    "description": "Fooocus \"Japanese Ink Drawing\"",
+    "param_map": {
+      "prompt": "Japanese Ink Drawing, {value}, ink drawing, inkwash, Japanese Ink Drawing",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, colorful, vibrant"
+    }
+  },
+  "fooocus/knolling-photography": {
+    "author": "local",
+    "title": "fooocus/knolling-photography",
+    "description": "Fooocus \"Knolling Photography\"",
+    "param_map": {
+      "prompt": "Knolling Photography, {value}, flat lay photography, object arrangment, knolling photography",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/light-cheery-atmosphere": {
+    "author": "local",
+    "title": "fooocus/light-cheery-atmosphere",
+    "description": "Fooocus \"Light Cheery Atmosphere\"",
+    "param_map": {
+      "prompt": "Light Cheery Atmosphere, {value}, happy, joyful, cheerful, carefree, gleeful, lighthearted, pleasant atmosphere",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, monochromatic, dark, moody"
+    }
+  },
+  "fooocus/logo-design": {
+    "author": "local",
+    "title": "fooocus/logo-design",
+    "description": "Fooocus \"Logo Design\"",
+    "param_map": {
+      "prompt": "Logo Design, {value}, dynamic graphic art, vector art, minimalist, professional logo design",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/luxurious-elegance": {
+    "author": "local",
+    "title": "fooocus/luxurious-elegance",
+    "description": "Fooocus \"Luxurious Elegance\"",
+    "param_map": {
+      "prompt": "Luxurious Elegance, {value}, extravagant, ornate, designer, opulent, picturesque, lavish",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/macro-photography": {
+    "author": "local",
+    "title": "fooocus/macro-photography",
+    "description": "Fooocus \"Macro Photography\"",
+    "param_map": {
+      "prompt": "Macro Photography, {value}, close-up, macro 100mm, macro photography",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/marker-drawing": {
+    "author": "local",
+    "title": "fooocus/marker-drawing",
+    "description": "Fooocus \"Marker Drawing\"",
+    "param_map": {
+      "prompt": "Marker Drawing, {value}, bold marker lines, visibile paper texture, marker drawing",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, photograph, realistic"
+    }
+  },
+  "fooocus/medievalism": {
+    "author": "local",
+    "title": "fooocus/medievalism",
+    "description": "Fooocus \"Medievalism\"",
+    "param_map": {
+      "prompt": "Medievalism, {value}, inspired by The Middle Ages, medieval art, elaborate patterns and decoration, Medievalism",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/mandola-art": {
+    "author": "local",
+    "title": "fooocus/mandola-art",
+    "description": "Fooocus \"Mandola Art\"",
+    "param_map": {
+      "prompt": "Mandola art style, {value}, complex, circular design, mandola",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/minimalism": {
+    "author": "local",
+    "title": "fooocus/minimalism",
+    "description": "Fooocus \"Minimalism\"",
+    "param_map": {
+      "prompt": "Minimalism, {value}, abstract, simple geometic shapes, hard edges, sleek contours, Minimalism",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/neo-baroque": {
+    "author": "local",
+    "title": "fooocus/neo-baroque",
+    "description": "Fooocus \"Neo-Baroque\"",
+    "param_map": {
+      "prompt": "Neo-Baroque, {value}, ornate and elaborate, dynaimc, Neo-Baroque",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/neo-byzantine": {
+    "author": "local",
+    "title": "fooocus/neo-byzantine",
+    "description": "Fooocus \"Neo-Byzantine\"",
+    "param_map": {
+      "prompt": "Neo-Byzantine, {value}, grand decorative religious style, Orthodox Christian inspired, Neo-Byzantine",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/neo-rococo": {
+    "author": "local",
+    "title": "fooocus/neo-rococo",
+    "description": "Fooocus \"Neo-Rococo\"",
+    "param_map": {
+      "prompt": "Neo-Rococo, {value}, curved forms, naturalistic ornamentation, elaborate, decorative, gaudy, Neo-Rococo",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/neoclassicism": {
+    "author": "local",
+    "title": "fooocus/neoclassicism",
+    "description": "Fooocus \"Neoclassicism\"",
+    "param_map": {
+      "prompt": "Neoclassicism, {value}, ancient Rome and Greece inspired, idealic, sober colors, Neoclassicism",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/neo-impressionism": {
+    "author": "local",
+    "title": "fooocus/neo-impressionism",
+    "description": "Fooocus \"Neo-Impressionism\"",
+    "param_map": {
+      "prompt": "Neo-Impressionism, {value}, tiny dabs of color, Pointillism, painterly, Neo-Impressionism",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, photograph, realistic"
+    }
+  },
+  "fooocus/neo-futurism": {
+    "author": "local",
+    "title": "fooocus/neo-futurism",
+    "description": "Fooocus \"Neo-Futurism\"",
+    "param_map": {
+      "prompt": "Neo-Futurism, {value}, high-tech, curves, spirals, flowing lines, idealistic future, Neo-Futurism",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/ornate-and-intricate": {
+    "author": "local",
+    "title": "fooocus/ornate-and-intricate",
+    "description": "Fooocus \"Ornate and Intricate\"",
+    "param_map": {
+      "prompt": "Ornate and Intricate, {value}, decorative, highly detailed, elaborate, ornate, intricate",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/op-art": {
+    "author": "local",
+    "title": "fooocus/op-art",
+    "description": "Fooocus \"Op Art\"",
+    "param_map": {
+      "prompt": "Op Art, {value}, optical illusion, abstract, geometric pattern, impression of movement, Op Art",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/pencil-sketch-drawing": {
+    "author": "local",
+    "title": "fooocus/pencil-sketch-drawing",
+    "description": "Fooocus \"Pencil Sketch Drawing\"",
+    "param_map": {
+      "prompt": "Pencil Sketch Drawing, {value}, black and white drawing, graphite drawing",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/pop-art-2": {
+    "author": "local",
+    "title": "fooocus/pop-art-2",
+    "description": "Fooocus \"Pop Art 2\"",
+    "param_map": {
+      "prompt": "Pop Art, {value}, vivid colors, flat color, 2D, strong lines, Pop Art",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, photo, realistic"
+    }
+  },
+  "fooocus/rococo": {
+    "author": "local",
+    "title": "fooocus/rococo",
+    "description": "Fooocus \"Rococo\"",
+    "param_map": {
+      "prompt": "Rococo, {value}, flamboyant, pastel colors, curved lines, elaborate detail, Rococo",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/silhouette-art": {
+    "author": "local",
+    "title": "fooocus/silhouette-art",
+    "description": "Fooocus \"Silhouette Art\"",
+    "param_map": {
+      "prompt": "Silhouette Art, {value}, high contrast, well defined, Silhouette Art",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/simple-vector-art": {
+    "author": "local",
+    "title": "fooocus/simple-vector-art",
+    "description": "Fooocus \"Simple Vector Art\"",
+    "param_map": {
+      "prompt": "Simple Vector Art, {value}, 2D flat, simple shapes, minimalistic, professional graphic, flat color, high contrast, Simple Vector Art",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, 3D, photo, realistic"
+    }
+  },
+  "fooocus/sketchup": {
+    "author": "local",
+    "title": "fooocus/sketchup",
+    "description": "Fooocus \"Sketchup\"",
+    "param_map": {
+      "prompt": "Sketchup, {value}, CAD, professional design, Sketchup",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, photo, photograph"
+    }
+  },
+  "fooocus/steampunk-2": {
+    "author": "local",
+    "title": "fooocus/steampunk-2",
+    "description": "Fooocus \"Steampunk 2\"",
+    "param_map": {
+      "prompt": "Steampunk, {value}, retrofuturistic science fantasy, steam-powered tech, vintage industry, gears, neo-victorian, steampunk",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/surrealism": {
+    "author": "local",
+    "title": "fooocus/surrealism",
+    "description": "Fooocus \"Surrealism\"",
+    "param_map": {
+      "prompt": "Surrealism, {value}, expressive, dramatic, organic lines and forms, dreamlike and mysterious, Surrealism",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, realistic"
+    }
+  },
+  "fooocus/suprematism": {
+    "author": "local",
+    "title": "fooocus/suprematism",
+    "description": "Fooocus \"Suprematism\"",
+    "param_map": {
+      "prompt": "Suprematism, {value}, abstract, limited color palette, geometric forms, Suprematism",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, realistic"
+    }
+  },
+  "fooocus/terragen": {
+    "author": "local",
+    "title": "fooocus/terragen",
+    "description": "Fooocus \"Terragen\"",
+    "param_map": {
+      "prompt": "Terragen, {value}, beautiful massive landscape, epic scenery, Terragen",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/tranquil-relaxing-atmosphere": {
+    "author": "local",
+    "title": "fooocus/tranquil-relaxing-atmosphere",
+    "description": "Fooocus \"Tranquil Relaxing Atmosphere\"",
+    "param_map": {
+      "prompt": "Tranquil Relaxing Atmosphere, {value}, calming style, soothing colors, peaceful, idealic, Tranquil Relaxing Atmosphere",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, oversaturated"
+    }
+  },
+  "fooocus/sticker-designs": {
+    "author": "local",
+    "title": "fooocus/sticker-designs",
+    "description": "Fooocus \"Sticker Designs\"",
+    "param_map": {
+      "prompt": "Vector Art Stickers, {value}, professional vector design, sticker designs, Sticker Sheet",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/vibrant-rim-light": {
+    "author": "local",
+    "title": "fooocus/vibrant-rim-light",
+    "description": "Fooocus \"Vibrant Rim Light\"",
+    "param_map": {
+      "prompt": "Vibrant Rim Light, {value}, bright rim light, high contrast, bold edge light",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/volumetric-lighting": {
+    "author": "local",
+    "title": "fooocus/volumetric-lighting",
+    "description": "Fooocus \"Volumetric Lighting\"",
+    "param_map": {
+      "prompt": "Volumetric Lighting, {value}, light depth, dramatic atmospheric lighting, Volumetric Lighting",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast"
+    }
+  },
+  "fooocus/watercolor-2": {
+    "author": "local",
+    "title": "fooocus/watercolor-2",
+    "description": "Fooocus \"Watercolor 2\"",
+    "param_map": {
+      "prompt": "Watercolor style painting, {value}, visible paper texture, colorwash, watercolor",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, photo, realistic"
+    }
+  },
+  "fooocus/whimsical-and-playful": {
+    "author": "local",
+    "title": "fooocus/whimsical-and-playful",
+    "description": "Fooocus \"Whimsical and Playful\"",
+    "param_map": {
+      "prompt": "Whimsical and Playful, {value}, imaginative, fantastical, bight colors, stylized, happy, Whimsical and Playful",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, drab, boring, moody"
+    }
+  },
+  "fooocus/fooocus-semi-realistic": {
+    "author": "local",
+    "title": "fooocus/fooocus-semi-realistic",
+    "description": "Fooocus \"Fooocus Semi Realistic\"",
+    "param_map": {
+      "prompt": "{value}",
+      "negativeprompt": "{value} (worst quality, low quality, normal quality, lowres, low details, oversaturated, undersaturated, overexposed, underexposed, bad photo, bad photography, bad art:1.4), (watermark, signature, text font, username, error, logo, words, letters, digits, autograph, trademark, name:1.2), (blur, blurry, grainy), morbid, ugly, asymmetrical, mutated malformed, mutilated, poorly lit, bad shadow, draft, cropped, out of frame, cut off, censored, jpeg artifacts, out of focus, glitch, duplicate, (bad hands, bad anatomy, bad body, bad face, bad teeth, bad arms, bad legs, deformities:1.3)"
+    }
+  },
+  "fooocus/fooocus-enhance": {
+    "author": "local",
+    "title": "fooocus/fooocus-enhance",
+    "description": "Fooocus \"Fooocus Enhance\"",
+    "param_map": {
+      "prompt": "{value}",
+      "negativeprompt": "{value} (worst quality, low quality, normal quality, lowres, low details, oversaturated, undersaturated, overexposed, underexposed, grayscale, bw, bad photo, bad photography, bad art:1.4), (watermark, signature, text font, username, error, logo, words, letters, digits, autograph, trademark, name:1.2), (blur, blurry, grainy), morbid, ugly, asymmetrical, mutated malformed, mutilated, poorly lit, bad shadow, draft, cropped, out of frame, cut off, censored, jpeg artifacts, out of focus, glitch, duplicate, (airbrushed, cartoon, anime, semi-realistic, cgi, render, blender, digital art, manga, amateur:1.3), (3D ,3D Game, 3D Game Scene, 3D Character:1.1), (bad hands, bad anatomy, bad body, bad face, bad teeth, bad arms, bad legs, deformities:1.3)"
+    }
+  },
+  "fooocus/fooocus-sharp": {
+    "author": "local",
+    "title": "fooocus/fooocus-sharp",
+    "description": "Fooocus \"Fooocus Sharp\"",
+    "param_map": {
+      "prompt": "cinematic still {value} . emotional, harmonious, vignette, 4k epic detailed, shot on kodak, 35mm photo, sharp focus, high budget, cinemascope, moody, epic, gorgeous, film grain, grainy",
+      "negativeprompt": "{value} anime, cartoon, graphic, (blur, blurry, bokeh), text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured"
+    }
+  },
+  "fooocus/fooocus-masterpiece": {
+    "author": "local",
+    "title": "fooocus/fooocus-masterpiece",
+    "description": "Fooocus \"Fooocus Masterpiece\"",
+    "param_map": {
+      "prompt": "(masterpiece), (best quality), (ultra-detailed), {value}, illustration, disheveled hair, detailed eyes, perfect composition, moist skin, intricate details, earrings, by wlop",
+      "negativeprompt": "{value} longbody, lowres, bad anatomy, bad hands, missing fingers, pubic hair,extra digit, fewer digits, cropped, worst quality, low quality"
+    }
+  },
+  "fooocus/fooocus-photograph": {
+    "author": "local",
+    "title": "fooocus/fooocus-photograph",
+    "description": "Fooocus \"Fooocus Photograph\"",
+    "param_map": {
+      "prompt": "photograph {value}, 50mm . cinematic 4k epic detailed 4k epic detailed photograph shot on kodak detailed cinematic hbo dark moody, 35mm photo, grainy, vignette, vintage, Kodachrome, Lomography, stained, highly detailed, found footage",
+      "negativeprompt": "{value} Brad Pitt, bokeh, depth of field, blurry, cropped, regular face, saturated, contrast, deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, text, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck"
+    }
+  },
+  "fooocus/fooocus-negative": {
+    "author": "local",
+    "title": "fooocus/fooocus-negative",
+    "description": "Fooocus \"Fooocus Negative\"",
+    "param_map": {
+      "prompt": "{value}",
+      "negativeprompt": "{value} deformed, bad anatomy, disfigured, poorly drawn face, mutated, extra limb, ugly, poorly drawn hands, missing limb, floating limbs, disconnected limbs, disconnected head, malformed hands, long neck, mutated hands and fingers, bad hands, missing fingers, cropped, worst quality, low quality, mutation, poorly drawn, huge calf, bad hands, fused hand, missing hand, disappearing arms, disappearing thigh, disappearing calf, disappearing legs, missing fingers, fused fingers, abnormal eye proportion, Abnormal hands, abnormal legs, abnormal feet, abnormal fingers, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly, anime, cartoon, graphic, text, painting, crayon, graphite, abstract, glitch"
+    }
+  },
+  "fooocus/fooocus-cinematic": {
+    "author": "local",
+    "title": "fooocus/fooocus-cinematic",
+    "description": "Fooocus \"Fooocus Cinematic\"",
+    "param_map": {
+      "prompt": "cinematic still {value} . emotional, harmonious, vignette, highly detailed, high budget, bokeh, cinemascope, moody, epic, gorgeous, film grain, grainy",
+      "negativeprompt": "{value} anime, cartoon, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured"
+    }
+  },
+  "fooocus/mk-chromolithography": {
+    "author": "local",
+    "title": "fooocus/mk-chromolithography",
+    "description": "Fooocus \"MK Chromolithography\"",
+    "param_map": {
+      "prompt": "Chromolithograph {value}. Vibrant colors, intricate details, rich color saturation, meticulous registration, multi-layered printing, decorative elements, historical charm, artistic reproductions, commercial posters, nostalgic, ornate compositions.",
+      "negativeprompt": "{value} monochromatic, simple designs, limited color palette, imprecise registration, minimalistic, modern aesthetic, digital appearance."
+    }
+  },
+  "fooocus/mk-cross-processing-print": {
+    "author": "local",
+    "title": "fooocus/mk-cross processing-print",
+    "description": "Fooocus \"MK Cross Processing Print\"",
+    "param_map": {
+      "prompt": "Cross processing print {value}. Experimental color shifts, unconventional tonalities, vibrant and surreal hues, heightened contrasts, unpredictable results, artistic unpredictability, retro and vintage feel, dynamic color interplay, abstract and dreamlike.",
+      "negativeprompt": "{value} predictable color tones, traditional processing, realistic color representation, subdued contrasts, standard photographic aesthetics."
+    }
+  },
+  "fooocus/mk-dufaycolor-photograph": {
+    "author": "local",
+    "title": "fooocus/mk-dufaycolor-photograph",
+    "description": "Fooocus \"MK Dufaycolor Photograph\"",
+    "param_map": {
+      "prompt": "Dufaycolor photograph {value}. Vintage color palette, distinctive color rendering, soft and dreamy atmosphere, historical charm, unique color process, grainy texture, evocative mood, nostalgic aesthetic, hand-tinted appearance, artistic patina.",
+      "negativeprompt": "{value} modern color reproduction, hyperrealistic tones, sharp and clear details, digital precision, contemporary aesthetic."
+    }
+  },
+  "fooocus/mk-herbarium": {
+    "author": "local",
+    "title": "fooocus/mk-herbarium",
+    "description": "Fooocus \"MK Herbarium\"",
+    "param_map": {
+      "prompt": "Herbarium drawing{value}. Botanical accuracy, old botanical book illustration, detailed illustrations, pressed plants, delicate and precise linework, scientific documentation, meticulous presentation, educational purpose, organic compositions, timeless aesthetic, naturalistic beauty.",
+      "negativeprompt": "{value} abstract representation, vibrant colors, artistic interpretation, chaotic compositions, fantastical elements, digital appearance."
+    }
+  },
+  "fooocus/mk-punk-collage": {
+    "author": "local",
+    "title": "fooocus/mk-punk-collage",
+    "description": "Fooocus \"MK Punk Collage\"",
+    "param_map": {
+      "prompt": "punk collage style {value} . mixed media, papercut,textured paper, overlapping, ripped posters, safety pins, chaotic layers, graffiti-style elements, anarchy symbols, vintage photos, cut-and-paste aesthetic, bold typography, distorted images, political messages, urban decay, distressed textures, newspaper clippings, spray paint, rebellious icons, DIY spirit, vivid colors, punk band logos, edgy and raw compositions,",
+      "negativeprompt": "{value} conventional,blurry, noisy, low contrast"
+    }
+  },
+  "fooocus/mk-mosaic": {
+    "author": "local",
+    "title": "fooocus/mk-mosaic",
+    "description": "Fooocus \"MK mosaic\"",
+    "param_map": {
+      "prompt": "mosaic style {value} . fragmented, assembled, colorful, highly detailed",
+      "negativeprompt": "{value} whole, unbroken, monochrome"
+    }
+  },
+  "fooocus/mk-van-gogh": {
+    "author": "local",
+    "title": "fooocus/mk-van-gogh",
+    "description": "Fooocus \"MK Van Gogh\"",
+    "param_map": {
+      "prompt": "Oil painting by Van Gogh {value} . Expressive, impasto, swirling brushwork, vibrant, brush strokes, Brushstroke-heavy, Textured, Impasto, Colorful, Dynamic, Bold, Distinctive, Vibrant, Whirling, Expressive, Dramatic, Swirling, Layered, Intense, Contrastive, Atmospheric, Luminous, Textural, Evocative, SpiraledVan Gogh style",
+      "negativeprompt": "{value} realistic, photorealistic, calm, straight lines, signature, frame, text, watermark"
+    }
+  },
+  "fooocus/mk-coloring-book": {
+    "author": "local",
+    "title": "fooocus/mk-coloring-book",
+    "description": "Fooocus \"MK Coloring Book\"",
+    "param_map": {
+      "prompt": "centered black and white high contrast line drawing, coloring book style,{value} . monochrome, blank white background",
+      "negativeprompt": "{value} greyscale, gradients,shadows,shadow, colored, Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Gray, Beige, Turquoise, Lavender, Cyan, Magenta, Olive, Indigo, black background"
+    }
+  },
+  "fooocus/mk-singer-sargent": {
+    "author": "local",
+    "title": "fooocus/mk-singer-sargent",
+    "description": "Fooocus \"MK Singer Sargent\"",
+    "param_map": {
+      "prompt": "Oil painting by John Singer Sargent {value}. Elegant, refined, masterful technique,realistic portrayal, subtle play of light, captivating expression, rich details, harmonious colors, skillful composition, brush strokes, chiaroscuro.",
+      "negativeprompt": "{value} realistic, photorealistic, abstract, overly stylized, excessive contrasts, distorted,bright colors,disorder."
+    }
+  },
+  "fooocus/mk-pollock": {
+    "author": "local",
+    "title": "fooocus/mk-pollock",
+    "description": "Fooocus \"MK Pollock\"",
+    "param_map": {
+      "prompt": "Oil painting by Jackson Pollock {value}. Abstract expressionism, drip painting, chaotic composition, energetic, spontaneous, unconventional technique, dynamic, bold, distinctive, vibrant, intense, expressive, energetic, layered, non-representational, gestural.",
+      "negativeprompt": "{value} (realistic:1.5), (photorealistic:1.5), representational, calm, ordered composition, precise lines, detailed forms, subdued colors, quiet, static, traditional, figurative."
+    }
+  },
+  "fooocus/mk-andy-warhol": {
+    "author": "local",
+    "title": "fooocus/mk-andy-warhol",
+    "description": "Fooocus \"MK Andy Warhol\"",
+    "param_map": {
+      "prompt": "Artwork in the style of Andy Warhol {value}. Pop art, vibrant colors, bold compositions, repetition of iconic imagery, celebrity culture, commercial aesthetics, mass production influence, stylized simplicity, cultural commentary, graphical elements, distinctive portraits.",
+      "negativeprompt": "{value} subdued colors, realistic, lack of repetition, minimalistic."
+    }
+  },
+  "fooocus/mk-basquiat": {
+    "author": "local",
+    "title": "fooocus/mk-basquiat",
+    "description": "Fooocus \"MK Basquiat\"",
+    "param_map": {
+      "prompt": "Artwork by Jean-Michel Basquiat {value}. Neo-expressionism, street art influence, graffiti-inspired, raw, energetic, bold colors, dynamic composition, chaotic, layered, textural, expressive, spontaneous, distinctive, symbolic,energetic brushstrokes.",
+      "negativeprompt": "{value} (realistic:1.5), (photorealistic:1.5), calm, precise lines, conventional composition, subdued"
+    }
+  },
+  "fooocus/mk-gond-painting": {
+    "author": "local",
+    "title": "fooocus/mk-gond-painting",
+    "description": "Fooocus \"MK Gond Painting\"",
+    "param_map": {
+      "prompt": "Gond painting {value}. Intricate patterns, vibrant colors, detailed motifs, nature-inspired themes, tribal folklore, fine lines, intricate detailing, storytelling compositions, mystical and folkloric, cultural richness.",
+      "negativeprompt": "{value} monochromatic, abstract shapes, minimalistic."
+    }
+  },
+  "fooocus/mk-albumen-print": {
+    "author": "local",
+    "title": "fooocus/mk-albumen-print",
+    "description": "Fooocus \"MK Albumen Print\"",
+    "param_map": {
+      "prompt": "Albumen print {value}. Sepia tones, fine details, subtle tonal gradations, delicate highlights, vintage aesthetic, soft and muted atmosphere, historical charm, rich textures, meticulous craftsmanship, classic photographic technique, vignetting.",
+      "negativeprompt": "{value} vibrant colors, high contrast, modern, digital appearance, sharp details, contemporary style."
+    }
+  },
+  "fooocus/mk-aquatint-print": {
+    "author": "local",
+    "title": "fooocus/mk-aquatint-print",
+    "description": "Fooocus \"MK Aquatint Print\"",
+    "param_map": {
+      "prompt": "Aquatint print {value}. Soft tonal gradations, atmospheric effects, velvety textures, rich contrasts, fine details, etching process, delicate lines, nuanced shading, expressive and moody atmosphere, artistic depth.",
+      "negativeprompt": "{value} sharp contrasts, bold lines, minimalistic."
+    }
+  },
+  "fooocus/mk-halftone-print": {
+    "author": "local",
+    "title": "fooocus/mk-halftone-print",
+    "description": "Fooocus \"MK Halftone print\"",
+    "param_map": {
+      "prompt": "Halftone print of {value}. Dot matrix pattern, grayscale tones, vintage aesthetic, newspaper print vibe, stylized dots, visual texture, black and white contrasts, retro appearance, artistic pointillism,pop culture, (Roy Lichtenstein style:1.5).",
+      "negativeprompt": "{value} smooth gradients, continuous tones, vibrant colors."
+    }
+  },
+  "fooocus/mk-anthotype-print": {
+    "author": "local",
+    "title": "fooocus/mk-anthotype-print",
+    "description": "Fooocus \"MK Anthotype Print\"",
+    "param_map": {
+      "prompt": "Anthotype print {value}. Monochrome dye, soft and muted colors, organic textures, ephemeral and delicate appearance, low details, watercolor canvas, low contrast, overexposed, silhouette, textured paper.",
+      "negativeprompt": "{value} vibrant synthetic dyes, bold and saturated colors."
+    }
+  },
+  "fooocus/mk-inuit-carving": {
+    "author": "local",
+    "title": "fooocus/mk-inuit-carving",
+    "description": "Fooocus \"MK Inuit Carving\"",
+    "param_map": {
+      "prompt": "A sculpture made of ivory, {value} made of . Sculptures, Inuit art style, intricate carvings, natural materials, storytelling motifs, arctic wildlife themes, symbolic representations, cultural traditions, earthy tones, harmonious compositions, spiritual and mythological elements.",
+      "negativeprompt": "{value} abstract, vibrant colors."
+    }
+  },
+  "fooocus/mk-bromoil-print": {
+    "author": "local",
+    "title": "fooocus/mk-bromoil-print",
+    "description": "Fooocus \"MK Bromoil Print\"",
+    "param_map": {
+      "prompt": "Bromoil print {value}. Painterly effects, sepia tones, textured surfaces, rich contrasts, expressive brushwork, tonal variations, vintage aesthetic, atmospheric mood, handmade quality, artistic experimentation, darkroom craftsmanship, vignetting.",
+      "negativeprompt": "{value} smooth surfaces, minimal brushwork, contemporary digital appearance."
+    }
+  },
+  "fooocus/mk-calotype-print": {
+    "author": "local",
+    "title": "fooocus/mk-calotype-print",
+    "description": "Fooocus \"MK Calotype Print\"",
+    "param_map": {
+      "prompt": "Calotype print {value}. Soft focus, subtle tonal range, paper negative process, fine details, vintage aesthetic, artistic experimentation, atmospheric mood, early photographic charm, handmade quality, vignetting.",
+      "negativeprompt": "{value} sharp focus, bold contrasts, modern aesthetic, digital photography."
+    }
+  },
+  "fooocus/mk-color-sketchnote": {
+    "author": "local",
+    "title": "fooocus/mk-color-sketchnote",
+    "description": "Fooocus \"MK Color Sketchnote\"",
+    "param_map": {
+      "prompt": "Color sketchnote {value}. Hand-drawn elements, vibrant colors, visual hierarchy, playful illustrations, varied typography, graphic icons, organic and dynamic layout, personalized touches, creative expression, engaging storytelling.",
+      "negativeprompt": "{value} monochromatic, geometric layout."
+    }
+  },
+  "fooocus/mk-cibulak-porcelain": {
+    "author": "local",
+    "title": "fooocus/mk-cibulak-porcelain",
+    "description": "Fooocus \"MK Cibulak Porcelain\"",
+    "param_map": {
+      "prompt": "A sculpture made of blue pattern porcelain of {value}. Classic design, blue and white color scheme, intricate detailing, floral motifs, onion-shaped elements, historical charm, rococo, white ware, cobalt blue, underglaze pattern, fine craftsmanship, traditional elegance, delicate patterns, vintage aesthetic, Meissen, Blue Onion pattern, Cibulak.",
+      "negativeprompt": "{value} tea, teapot, cup, teacup,bright colors, bold and modern design, absence of intricate detailing, lack of floral motifs, non-traditional shapes."
+    }
+  },
+  "fooocus/mk-alcohol-ink-art": {
+    "author": "local",
+    "title": "fooocus/mk-alcohol ink-art",
+    "description": "Fooocus \"MK Alcohol Ink Art\"",
+    "param_map": {
+      "prompt": "Alcohol ink art {value}. Fluid and vibrant colors, unpredictable patterns, organic textures, translucent layers, abstract compositions, ethereal and dreamy effects, free-flowing movement, expressive brushstrokes, contemporary aesthetic, wet textured paper.",
+      "negativeprompt": "{value} monochromatic, controlled patterns."
+    }
+  },
+  "fooocus/mk-one-line-art": {
+    "author": "local",
+    "title": "fooocus/mk-one line-art",
+    "description": "Fooocus \"MK One Line Art\"",
+    "param_map": {
+      "prompt": "One line art {value}. Continuous and unbroken black line, minimalistic, simplicity, economical use of space, flowing and dynamic, symbolic representations, contemporary aesthetic, evocative and abstract, white background.",
+      "negativeprompt": "{value} disjointed lines, complexity, complex detailing."
+    }
+  },
+  "fooocus/mk-blacklight-paint": {
+    "author": "local",
+    "title": "fooocus/mk-blacklight-paint",
+    "description": "Fooocus \"MK Blacklight Paint\"",
+    "param_map": {
+      "prompt": "Blacklight paint {value}. Fluorescent pigments, vibrant and surreal colors, ethereal glow, otherworldly effects, dynamic and psychedelic compositions, neon aesthetics, transformative in ultraviolet light, contemporary and experimental.",
+      "negativeprompt": "{value} muted colors, traditional and realistic compositions."
+    }
+  },
+  "fooocus/mk-carnival-glass": {
+    "author": "local",
+    "title": "fooocus/mk-carnival-glass",
+    "description": "Fooocus \"MK Carnival Glass\"",
+    "param_map": {
+      "prompt": "A sculpture made of Carnival glass, {value}. Iridescent surfaces, vibrant colors, intricate patterns, opalescent hues, reflective and prismatic effects, Art Nouveau and Art Deco influences, vintage charm, intricate detailing, lustrous and luminous appearance, Carnival Glass style.",
+      "negativeprompt": "{value} non-iridescent surfaces, muted colors, absence of intricate patterns, lack of opalescent hues, modern and minimalist aesthetic."
+    }
+  },
+  "fooocus/mk-cyanotype-print": {
+    "author": "local",
+    "title": "fooocus/mk-cyanotype-print",
+    "description": "Fooocus \"MK Cyanotype Print\"",
+    "param_map": {
+      "prompt": "Cyanotype print {value}. Prussian blue tones, distinctive coloration, high contrast, blueprint aesthetics, atmospheric mood, sun-exposed paper, silhouette effects, delicate details, historical charm, handmade and experimental quality.",
+      "negativeprompt": "{value} vibrant colors, low contrast, modern and polished appearance."
+    }
+  },
+  "fooocus/mk-cross-stitching": {
+    "author": "local",
+    "title": "fooocus/mk-cross-stitching",
+    "description": "Fooocus \"MK Cross-Stitching\"",
+    "param_map": {
+      "prompt": "Cross-stitching {value}. Intricate patterns, embroidery thread, sewing, fine details, precise stitches, textile artistry, symmetrical designs, varied color palette, traditional and contemporary motifs, handmade and crafted,canvas, nostalgic charm.",
+      "negativeprompt": "{value} paper, paint, ink, photography."
+    }
+  },
+  "fooocus/mk-encaustic-paint": {
+    "author": "local",
+    "title": "fooocus/mk-encaustic-paint",
+    "description": "Fooocus \"MK Encaustic Paint\"",
+    "param_map": {
+      "prompt": "Encaustic paint {value}. Textured surfaces, translucent layers, luminous quality, wax medium, rich color saturation, fluid and organic shapes, contemporary and historical influences, mixed media elements, atmospheric depth.",
+      "negativeprompt": "{value} flat surfaces, opaque layers, lack of wax medium, muted color palette, absence of textured surfaces, non-mixed media."
+    }
+  },
+  "fooocus/mk-embroidery": {
+    "author": "local",
+    "title": "fooocus/mk-embroidery",
+    "description": "Fooocus \"MK Embroidery\"",
+    "param_map": {
+      "prompt": "Embroidery {value}. Intricate stitching, embroidery thread, fine details, varied thread textures, textile artistry, embellished surfaces, diverse color palette, traditional and contemporary motifs, handmade and crafted, tactile and ornate.",
+      "negativeprompt": "{value} minimalist, monochromatic."
+    }
+  },
+  "fooocus/mk-gyotaku": {
+    "author": "local",
+    "title": "fooocus/mk-gyotaku",
+    "description": "Fooocus \"MK Gyotaku\"",
+    "param_map": {
+      "prompt": "Gyotaku {value}. Fish impressions, realistic details, ink rubbings, textured surfaces, traditional Japanese art form, nature-inspired compositions, artistic representation of marine life, black and white contrasts, cultural significance.",
+      "negativeprompt": "{value} photography."
+    }
+  },
+  "fooocus/mk-luminogram": {
+    "author": "local",
+    "title": "fooocus/mk-luminogram",
+    "description": "Fooocus \"MK Luminogram\"",
+    "param_map": {
+      "prompt": "Luminogram {value}. Photogram technique, ethereal and abstract effects, light and shadow interplay, luminous quality, experimental process, direct light exposure, unique and unpredictable results, artistic experimentation.",
+      "negativeprompt": "{value}"
+    }
+  },
+  "fooocus/mk-palekh": {
+    "author": "local",
+    "title": "fooocus/mk-palekh",
+    "description": "Fooocus \"MK Palekh\"",
+    "param_map": {
+      "prompt": "Palekh art {value}. Miniature paintings, intricate details, vivid colors, folkloric themes, lacquer finish, storytelling compositions, symbolic elements, Russian folklore influence, cultural and historical significance.",
+      "negativeprompt": "{value} large-scale paintings."
+    }
+  },
+  "fooocus/pebble-art": {
+    "author": "local",
+    "title": "fooocus/pebble-art",
+    "description": "Fooocus \"Pebble Art\"",
+    "param_map": {
+      "prompt": "a sculpture made of peebles, {value}. Pebble art style,natural materials, textured surfaces, balanced compositions, organic forms, harmonious arrangements, tactile and 3D effects, beach-inspired aesthetic, creative storytelling, artisanal craftsmanship.",
+      "negativeprompt": "{value} non-natural materials, lack of textured surfaces, imbalanced compositions, absence of organic forms, non-tactile appearance."
+    }
+  },
+  "fooocus/mk-mokume-gane": {
+    "author": "local",
+    "title": "fooocus/mk-mokume-gane",
+    "description": "Fooocus \"MK Mokume-gane\"",
+    "param_map": {
+      "prompt": "Mokume-gane {value}. Wood-grain patterns, mixed metal layers, intricate and organic designs, traditional Japanese metalwork, harmonious color combinations, artisanal craftsmanship, unique and layered textures, cultural and historical significance.",
+      "negativeprompt": "{value} uniform metal surfaces."
+    }
+  },
+  "fooocus/mk-lite-brite-art": {
+    "author": "local",
+    "title": "fooocus/mk-lite brite-art",
+    "description": "Fooocus \"MK Lite Brite Art\"",
+    "param_map": {
+      "prompt": "Lite Brite art {value}. Luminous and colorful designs, pixelated compositions, retro aesthetic, glowing effects, creative patterns, interactive and playful, nostalgic charm, vibrant and dynamic arrangements.",
+      "negativeprompt": "{value} monochromatic."
+    }
+  },
+  "fooocus/mk-suminagashi": {
+    "author": "local",
+    "title": "fooocus/mk-suminagashi",
+    "description": "Fooocus \"MK Suminagashi\"",
+    "param_map": {
+      "prompt": "Suminagashi {value}. Floating ink patterns, marbled effects, delicate and ethereal designs, water-based ink, fluid and unpredictable compositions, meditative process, monochromatic or subtle color palette, Japanese artistic tradition.",
+      "negativeprompt": "{value} vibrant and bold color palette."
+    }
+  },
+  "fooocus/mk-scrimshaw": {
+    "author": "local",
+    "title": "fooocus/mk-scrimshaw",
+    "description": "Fooocus \"MK Scrimshaw\"",
+    "param_map": {
+      "prompt": "A Scrimshaw engraving of {value}. Intricate engravings on a spermwhale's teeth, marine motifs, detailed scenes, nautical themes, black and white contrasts, historical craftsmanship, artisanal carving, storytelling compositions, maritime heritage.",
+      "negativeprompt": "{value} colorful, modern."
+    }
+  },
+  "fooocus/mk-shibori": {
+    "author": "local",
+    "title": "fooocus/mk-shibori",
+    "description": "Fooocus \"MK Shibori\"",
+    "param_map": {
+      "prompt": "Shibori {value}. Textured fabric, intricate patterns, resist-dyeing technique, indigo or vibrant colors, organic and flowing designs, Japanese textile art, cultural tradition, tactile and visual interest.",
+      "negativeprompt": "{value} monochromatic."
+    }
+  },
+  "fooocus/mk-vitreous-enamel": {
+    "author": "local",
+    "title": "fooocus/mk-vitreous-enamel",
+    "description": "Fooocus \"MK Vitreous Enamel\"",
+    "param_map": {
+      "prompt": "A sculpture made of Vitreous enamel {value}. Smooth and glossy surfaces, vibrant colors, glass-like finish, durable and resilient, intricate detailing, traditional and contemporary applications, artistic craftsmanship, jewelry and decorative objects, , Vitreous enamel, colored glass.",
+      "negativeprompt": "{value} rough surfaces, muted colors."
+    }
+  },
+  "fooocus/mk-ukiyo-e": {
+    "author": "local",
+    "title": "fooocus/mk-ukiyo-e",
+    "description": "Fooocus \"MK Ukiyo-e\"",
+    "param_map": {
+      "prompt": "Ukiyo-e {value}. Woodblock prints, vibrant colors, intricate details, depictions of landscapes, kabuki actors, beautiful women, cultural scenes, traditional Japanese art, artistic craftsmanship, historical significance.",
+      "negativeprompt": "{value} absence of woodblock prints, muted colors, lack of intricate details, non-traditional Japanese themes, absence of cultural scenes."
+    }
+  },
+  "fooocus/mk-vintage-airline-poster": {
+    "author": "local",
+    "title": "fooocus/mk-vintage-airline-poster",
+    "description": "Fooocus \"MK vintage-airline-poster\"",
+    "param_map": {
+      "prompt": "vintage airline poster {value} . classic aviation fonts, pastel colors, elegant aircraft illustrations, scenic destinations, distressed textures, retro travel allure",
+      "negativeprompt": "{value} modern fonts, bold colors, hyper-realistic, sleek design"
+    }
+  },
+  "fooocus/mk-vintage-travel-poster": {
+    "author": "local",
+    "title": "fooocus/mk-vintage-travel-poster",
+    "description": "Fooocus \"MK vintage-travel-poster\"",
+    "param_map": {
+      "prompt": "vintage travel poster {value} . retro fonts, muted colors, scenic illustrations, iconic landmarks, distressed textures, nostalgic vibes",
+      "negativeprompt": "{value} modern fonts, vibrant colors, hyper-realistic, sleek design"
+    }
+  },
+  "fooocus/mk-bauhaus-style": {
+    "author": "local",
+    "title": "fooocus/mk-bauhaus-style",
+    "description": "Fooocus \"MK bauhaus-style\"",
+    "param_map": {
+      "prompt": "Bauhaus-inspired {value} . minimalism, geometric precision, primary colors, sans-serif typography, asymmetry, functional design",
+      "negativeprompt": "{value} ornate, intricate, excessive detail, complex patterns, serif typography"
+    }
+  },
+  "fooocus/mk-afrofuturism": {
+    "author": "local",
+    "title": "fooocus/mk-afrofuturism",
+    "description": "Fooocus \"MK afrofuturism\"",
+    "param_map": {
+      "prompt": "Afrofuturism illustration {value} . vibrant colors, futuristic elements, cultural symbolism, cosmic imagery, dynamic patterns, empowering narratives",
+      "negativeprompt": "{value} monochromatic"
+    }
+  },
+  "fooocus/mk-atompunk": {
+    "author": "local",
+    "title": "fooocus/mk-atompunk",
+    "description": "Fooocus \"MK atompunk\"",
+    "param_map": {
+      "prompt": "Atompunk illustation, {value} . retro-futuristic, atomic age aesthetics, sleek lines, metallic textures, futuristic technology, optimism, energy",
+      "negativeprompt": "{value} organic, natural textures, rustic, dystopian"
+    }
+  },
+  "fooocus/mk-constructivism": {
+    "author": "local",
+    "title": "fooocus/mk-constructivism",
+    "description": "Fooocus \"MK constructivism\"",
+    "param_map": {
+      "prompt": "Constructivism {value} . geometric abstraction, bold colors, industrial aesthetics, dynamic compositions, utilitarian design, revolutionary spirit",
+      "negativeprompt": "{value} organic shapes, muted colors, ornate elements, traditional"
+    }
+  },
+  "fooocus/mk-chicano-art": {
+    "author": "local",
+    "title": "fooocus/mk-chicano-art",
+    "description": "Fooocus \"MK chicano-art\"",
+    "param_map": {
+      "prompt": "Chicano art {value} . bold colors, cultural symbolism, muralism, lowrider aesthetics, barrio life, political messages, social activism, Mexico",
+      "negativeprompt": "{value} monochromatic, minimalist, mainstream aesthetics"
+    }
+  },
+  "fooocus/mk-de-stijl": {
+    "author": "local",
+    "title": "fooocus/mk-de-stijl",
+    "description": "Fooocus \"MK de-stijl\"",
+    "param_map": {
+      "prompt": "De Stijl Art {value} . neoplasticism, primary colors, geometric abstraction, horizontal and vertical lines, simplicity, harmony, utopian ideals",
+      "negativeprompt": "{value} complex patterns, muted colors, ornate elements, asymmetry"
+    }
+  },
+  "fooocus/mk-dayak-art": {
+    "author": "local",
+    "title": "fooocus/mk-dayak-art",
+    "description": "Fooocus \"MK dayak-art\"",
+    "param_map": {
+      "prompt": "Dayak art sculpture of {value} . intricate patterns, nature-inspired motifs, vibrant colors, traditional craftsmanship, cultural symbolism, storytelling",
+      "negativeprompt": "{value} minimalist, monochromatic, modern"
+    }
+  },
+  "fooocus/mk-fayum-portrait": {
+    "author": "local",
+    "title": "fooocus/mk-fayum-portrait",
+    "description": "Fooocus \"MK fayum-portrait\"",
+    "param_map": {
+      "prompt": "Fayum portrait {value} . encaustic painting, realistic facial features, warm earth tones, serene expressions, ancient Egyptian influences",
+      "negativeprompt": "{value} abstract, vibrant colors, exaggerated features, modern"
+    }
+  },
+  "fooocus/mk-kalighat-painting": {
+    "author": "local",
+    "title": "fooocus/mk-kalighat-painting",
+    "description": "Fooocus \"MK kalighat-painting\"",
+    "param_map": {
+      "prompt": "Kalighat painting {value} . bold lines, vibrant colors, narrative storytelling, cultural motifs, flat compositions, expressive characters",
+      "negativeprompt": "{value} subdued colors, intricate details, realistic portrayal, modern aesthetics"
+    }
+  },
+  "fooocus/mk-illuminated-manuscript": {
+    "author": "local",
+    "title": "fooocus/mk-illuminated-manuscript",
+    "description": "Fooocus \"MK illuminated-manuscript\"",
+    "param_map": {
+      "prompt": "Illuminated manuscript {value} . intricate calligraphy, rich colors, detailed illustrations, gold leaf accents, ornate borders, religious, historical, medieval",
+      "negativeprompt": "{value} modern typography, minimalist design, monochromatic, abstract themes"
+    }
+  },
+  "fooocus/mk-pictorialism": {
+    "author": "local",
+    "title": "fooocus/mk-pictorialism",
+    "description": "Fooocus \"MK pictorialism\"",
+    "param_map": {
+      "prompt": "Pictorialism illustration{value} . soft focus, atmospheric effects, artistic interpretation, tonality, muted colors, evocative storytelling",
+      "negativeprompt": "{value} sharp focus, high contrast, realistic depiction, vivid colors"
+    }
+  },
+  "fooocus/mk-madhubani-painting": {
+    "author": "local",
+    "title": "fooocus/mk-madhubani-painting",
+    "description": "Fooocus \"MK madhubani-painting\"",
+    "param_map": {
+      "prompt": "Madhubani painting {value} . intricate patterns, vibrant colors, nature-inspired motifs, cultural storytelling, symmetry, folk art aesthetics",
+      "negativeprompt": "{value} abstract, muted colors, minimalistic design, modern aesthetics"
+    }
+  },
+  "fooocus/mk-pichwai-painting": {
+    "author": "local",
+    "title": "fooocus/mk-pichwai-painting",
+    "description": "Fooocus \"MK pichwai-painting\"",
+    "param_map": {
+      "prompt": "Pichwai painting {value} . intricate detailing, vibrant colors, religious themes, nature motifs, devotional storytelling, gold leaf accents",
+      "negativeprompt": "{value} minimalist, subdued colors, abstract design"
+    }
+  },
+  "fooocus/mk-patachitra-painting": {
+    "author": "local",
+    "title": "fooocus/mk-patachitra-painting",
+    "description": "Fooocus \"MK patachitra-painting\"",
+    "param_map": {
+      "prompt": "Patachitra painting {value} . bold outlines, vibrant colors, intricate detailing, mythological themes, storytelling, traditional craftsmanship",
+      "negativeprompt": "{value} subdued colors, minimalistic, abstract, modern aesthetics"
+    }
+  },
+  "fooocus/mk-tlingit-art": {
+    "author": "local",
+    "title": "fooocus/mk-tlingit-art",
+    "description": "Fooocus \"MK tlingit-art\"",
+    "param_map": {
+      "prompt": "Tlingit art {value} . formline design, natural elements, animal motifs, bold colors, cultural storytelling, traditional craftsmanship, Alaska traditional art, (totem:1.5)",
+      "negativeprompt": "{value}"
+    }
+  },
+  "fooocus/mk-adnate-style": {
+    "author": "local",
+    "title": "fooocus/mk-adnate-style",
+    "description": "Fooocus \"MK adnate-style\"",
+    "param_map": {
+      "prompt": "Painting by Adnate {value} . realistic portraits, street art, large-scale murals, subdued color palette, social narratives",
+      "negativeprompt": "{value} abstract, vibrant colors, small-scale art"
+    }
+  },
+  "fooocus/mk-samoan-art-inspired": {
+    "author": "local",
+    "title": "fooocus/mk-samoan-art-inspired",
+    "description": "Fooocus \"MK samoan-art-inspired\"",
+    "param_map": {
+      "prompt": "Samoan art-inspired wooden sculpture {value} . traditional motifs, natural elements, bold colors, cultural symbolism, storytelling, craftsmanship",
+      "negativeprompt": "{value} modern aesthetics, minimalist, abstract"
+    }
+  },
+  "fooocus/mk-ron-english-style": {
+    "author": "local",
+    "title": "fooocus/mk-ron-english-style",
+    "description": "Fooocus \"MK ron-english-style\"",
+    "param_map": {
+      "prompt": "Painting by Ron English {value} . pop-surrealism, cultural subversion, iconic mash-ups, vibrant and bold colors, satirical commentary",
+      "negativeprompt": "{value} traditional, monochromatic"
+    }
+  },
+  "fooocus/mk-shepard-fairey-style": {
+    "author": "local",
+    "title": "fooocus/mk-shepard-fairey-style",
+    "description": "Fooocus \"MK shepard-fairey-style\"",
+    "param_map": {
+      "prompt": "Painting by Shepard Fairey {value} . street art, political activism, iconic stencils, bold typography, high contrast, red, black, and white color palette",
+      "negativeprompt": "{value} traditional, muted colors"
+    }
+  },
+  "fooocus/mre-cinematic-dynamic": {
+    "author": "local",
+    "title": "fooocus/mre-cinematic-dynamic",
+    "description": "Fooocus \"mre-cinematic-dynamic\"",
+    "param_map": {
+      "prompt": "epic cinematic shot of dynamic {value} in motion. main subject of high budget action movie. raw photo, motion blur. best quality, high resolution",
+      "negativeprompt": "{value} static, still, motionless, sluggish. drawing, painting, illustration, rendered. low budget. low quality, low resolution"
+    }
+  },
+  "fooocus/mre-spontaneous-picture": {
+    "author": "local",
+    "title": "fooocus/mre-spontaneous-picture",
+    "description": "Fooocus \"mre-spontaneous-picture\"",
+    "param_map": {
+      "prompt": "spontaneous picture of {value}, taken by talented amateur. best quality, high resolution. magical moment, natural look. simple but good looking",
+      "negativeprompt": "{value} overthinked. low quality, low resolution"
+    }
+  },
+  "fooocus/mre-artistic-vision": {
+    "author": "local",
+    "title": "fooocus/mre-artistic-vision",
+    "description": "Fooocus \"mre-artistic-vision\"",
+    "param_map": {
+      "prompt": "powerful artistic vision of {value}. breathtaking masterpiece made by great artist. best quality, high resolution",
+      "negativeprompt": "{value} insignificant, flawed, made by bad artist. low quality, low resolution"
+    }
+  },
+  "fooocus/mre-dark-dream": {
+    "author": "local",
+    "title": "fooocus/mre-dark-dream",
+    "description": "Fooocus \"mre-dark-dream\"",
+    "param_map": {
+      "prompt": "dark and unsettling dream showing {value}. best quality, high resolution. created by genius but depressed mad artist. grim beauty",
+      "negativeprompt": "{value} naive, cheerful. comfortable, casual, boring, cliche. low quality, low resolution"
+    }
+  },
+  "fooocus/mre-bad-dream": {
+    "author": "local",
+    "title": "fooocus/mre-bad-dream",
+    "description": "Fooocus \"mre-bad-dream\"",
+    "param_map": {
+      "prompt": "picture from really bad dream about terrifying {value}, true horror. bone-chilling vision. mad world that shouldn't exist. best quality, high resolution",
+      "negativeprompt": "{value} nice dream, pleasant experience. low quality, low resolution"
+    }
+  },
+  "fooocus/mre-gloomy-art": {
+    "author": "local",
+    "title": "fooocus/mre-gloomy-art",
+    "description": "Fooocus \"mre-gloomy-art\"",
+    "param_map": {
+      "prompt": "astonishing gloomy art made mainly of shadows and lighting, forming {value}. masterful usage of lighting, shadows and chiaroscuro. made by black-hearted artist, drawing from darkness. best quality, high resolution",
+      "negativeprompt": "{value} low quality, low resolution"
+    }
+  },
+  "fooocus/mre-underground": {
+    "author": "local",
+    "title": "fooocus/mre-underground",
+    "description": "Fooocus \"mre-underground\"",
+    "param_map": {
+      "prompt": "uncanny caliginous vision of {value}, created by remarkable underground artist. best quality, high resolution. raw and brutal art, careless but impressive style. inspired by darkness and chaos",
+      "negativeprompt": "{value} photography, mainstream, civilized. low quality, low resolution"
+    }
+  },
+  "fooocus/mre-surreal-painting": {
+    "author": "local",
+    "title": "fooocus/mre-surreal-painting",
+    "description": "Fooocus \"mre-surreal-painting\"",
+    "param_map": {
+      "prompt": "surreal painting representing strange vision of {value}. harmonious madness, synergy with chance. unique artstyle, mindbending art, magical surrealism. best quality, high resolution",
+      "negativeprompt": "{value} photography, illustration, drawing. realistic, possible. logical, sane. low quality, low resolution"
+    }
+  },
+  "fooocus/mre-dynamic-illustration": {
+    "author": "local",
+    "title": "fooocus/mre-dynamic-illustration",
+    "description": "Fooocus \"mre-dynamic-illustration\"",
+    "param_map": {
+      "prompt": "insanely dynamic illustration of {value}. best quality, high resolution. crazy artstyle, careless brushstrokes, emotional and fun",
+      "negativeprompt": "{value} photography, realistic. static, still, slow, boring. low quality, low resolution"
+    }
+  },
+  "fooocus/mre-elemental-art": {
+    "author": "local",
+    "title": "fooocus/mre-elemental-art",
+    "description": "Fooocus \"mre-elemental-art\"",
+    "param_map": {
+      "prompt": "art illustrating insane amounts of raging elemental energy turning into {value}, avatar of elements. magical surrealism, wizardry. best quality, high resolution",
+      "negativeprompt": "{value} photography, realistic, real. low quality, low resolution"
+    }
+  },
+  "fooocus/mre-undead-art": {
+    "author": "local",
+    "title": "fooocus/mre-undead-art",
+    "description": "Fooocus \"mre-undead-art\"",
+    "param_map": {
+      "prompt": "long forgotten art created by undead artist illustrating {value}, tribute to the death and decay. miserable art of the damned. wretched and decaying world. best quality, high resolution",
+      "negativeprompt": "{value} alive, playful, living. low quality, low resolution"
+    }
+  },
+  "fooocus/mre-brave-art": {
+    "author": "local",
+    "title": "fooocus/mre-brave-art",
+    "description": "Fooocus \"mre-brave-art\"",
+    "param_map": {
+      "prompt": "brave, shocking, and brutally true art showing {value}. inspired by courage and unlimited creativity. truth found in chaos. best quality, high resolution",
+      "negativeprompt": "{value} low quality, low resolution"
+    }
+  },
+  "fooocus/mre-ancient-illustration": {
+    "author": "local",
+    "title": "fooocus/mre-ancient-illustration",
+    "description": "Fooocus \"mre-ancient-illustration\"",
+    "param_map": {
+      "prompt": "sublime ancient illustration of {value}, predating human civilization. crude and simple, but also surprisingly beautiful artwork, made by genius primeval artist. best quality, high resolution",
+      "negativeprompt": "{value} low quality, low resolution"
+    }
+  },
+  "fooocus/mre-space-art": {
+    "author": "local",
+    "title": "fooocus/mre-space-art",
+    "description": "Fooocus \"mre-space-art\"",
+    "param_map": {
+      "prompt": "winner of inter-galactic art contest illustrating {value}, symbol of the interstellar singularity. best quality, high resolution. artstyle previously unseen in the whole galaxy",
+      "negativeprompt": "{value} created by human race, low quality, low resolution"
+    }
+  },
+  "fooocus/mre-heroic-fantasy": {
+    "author": "local",
+    "title": "fooocus/mre-heroic-fantasy",
+    "description": "Fooocus \"mre-heroic-fantasy\"",
+    "param_map": {
+      "prompt": "heroic fantasy painting of {value}, in the dangerous fantasy world. airbrush over oil on canvas. best quality, high resolution",
+      "negativeprompt": "{value} low quality, low resolution"
+    }
+  },
+  "fooocus/mre-dark-cyberpunk": {
+    "author": "local",
+    "title": "fooocus/mre-dark-cyberpunk",
+    "description": "Fooocus \"mre-dark-cyberpunk\"",
+    "param_map": {
+      "prompt": "dark cyberpunk illustration of brutal {value} in a world without hope, ruled by ruthless criminal corporations. best quality, high resolution",
+      "negativeprompt": "{value} low quality, low resolution"
+    }
+  },
+  "fooocus/mre-lyrical-geometry": {
+    "author": "local",
+    "title": "fooocus/mre-lyrical-geometry",
+    "description": "Fooocus \"mre-lyrical-geometry\"",
+    "param_map": {
+      "prompt": "geometric and lyrical abstraction painting presenting {value}. oil on metal. best quality, high resolution",
+      "negativeprompt": "{value} photography, realistic, drawing, rendered. low quality, low resolution"
+    }
+  },
+  "fooocus/mre-sumi-e-symbolic": {
+    "author": "local",
+    "title": "fooocus/mre-sumi-e-symbolic",
+    "description": "Fooocus \"mre-sumi-e-symbolic\"",
+    "param_map": {
+      "prompt": "big long brushstrokes of deep black sumi-e turning into symbolic painting of {value}. master level raw art. best quality, high resolution",
+      "negativeprompt": "{value} photography, rendered. low quality, low resolution"
+    }
+  },
+  "fooocus/mre-sumi-e-detailed": {
+    "author": "local",
+    "title": "fooocus/mre-sumi-e-detailed",
+    "description": "Fooocus \"mre-sumi-e-detailed\"",
+    "param_map": {
+      "prompt": "highly detailed black sumi-e painting of {value}. in-depth study of perfection, created by a master. best quality, high resolution",
+      "negativeprompt": "{value} low quality, low resolution"
+    }
+  },
+  "fooocus/mre-manga": {
+    "author": "local",
+    "title": "fooocus/mre-manga",
+    "description": "Fooocus \"mre-manga\"",
+    "param_map": {
+      "prompt": "manga artwork presenting {value}. created by japanese manga artist. highly emotional. best quality, high resolution",
+      "negativeprompt": "{value} low quality, low resolution"
+    }
+  },
+  "fooocus/mre-anime": {
+    "author": "local",
+    "title": "fooocus/mre-anime",
+    "description": "Fooocus \"mre-anime\"",
+    "param_map": {
+      "prompt": "anime artwork illustrating {value}. created by japanese anime studio. highly emotional. best quality, high resolution",
+      "negativeprompt": "{value} low quality, low resolution"
+    }
+  },
+  "fooocus/mre-comic": {
+    "author": "local",
+    "title": "fooocus/mre-comic",
+    "description": "Fooocus \"mre-comic\"",
+    "param_map": {
+      "prompt": "breathtaking illustration from adult comic book presenting {value}. fabulous artwork. best quality, high resolution",
+      "negativeprompt": "{value} deformed, ugly, low quality, low resolution"
+    }
+  },
+  "fooocus/sai-3d-model": {
+    "author": "local",
+    "title": "fooocus/sai-3d-model",
+    "description": "Fooocus \"sai-3d-model\"",
+    "param_map": {
+      "prompt": "professional 3d model {value} . octane render, highly detailed, volumetric, dramatic lighting",
+      "negativeprompt": "{value} ugly, deformed, noisy, low poly, blurry, painting"
+    }
+  },
+  "fooocus/sai-analog-film": {
+    "author": "local",
+    "title": "fooocus/sai-analog-film",
+    "description": "Fooocus \"sai-analog film\"",
+    "param_map": {
+      "prompt": "analog film photo {value} . faded film, desaturated, 35mm photo, grainy, vignette, vintage, Kodachrome, Lomography, stained, highly detailed, found footage",
+      "negativeprompt": "{value} painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured"
+    }
+  },
+  "fooocus/sai-anime": {
+    "author": "local",
+    "title": "fooocus/sai-anime",
+    "description": "Fooocus \"sai-anime\"",
+    "param_map": {
+      "prompt": "anime artwork {value} . anime style, key visual, vibrant, studio anime, highly detailed",
+      "negativeprompt": "{value} photo, deformed, black and white, realism, disfigured, low contrast"
+    }
+  },
+  "fooocus/sai-cinematic": {
+    "author": "local",
+    "title": "fooocus/sai-cinematic",
+    "description": "Fooocus \"sai-cinematic\"",
+    "param_map": {
+      "prompt": "cinematic film still {value} . shallow depth of field, vignette, highly detailed, high budget, bokeh, cinemascope, moody, epic, gorgeous, film grain, grainy",
+      "negativeprompt": "{value} anime, cartoon, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured"
+    }
+  },
+  "fooocus/sai-craft-clay": {
+    "author": "local",
+    "title": "fooocus/sai-craft-clay",
+    "description": "Fooocus \"sai-craft clay\"",
+    "param_map": {
+      "prompt": "play-doh style {value} . sculpture, clay art, centered composition, Claymation",
+      "negativeprompt": "{value} sloppy, messy, grainy, highly detailed, ultra textured, photo"
+    }
+  },
+  "fooocus/sai-comic-book": {
+    "author": "local",
+    "title": "fooocus/sai-comic-book",
+    "description": "Fooocus \"sai-comic book\"",
+    "param_map": {
+      "prompt": "comic {value} . graphic illustration, comic art, graphic novel art, vibrant, highly detailed",
+      "negativeprompt": "{value} photograph, deformed, glitch, noisy, realistic, stock photo"
+    }
+  },
+  "fooocus/sai-digital-art": {
+    "author": "local",
+    "title": "fooocus/sai-digital-art",
+    "description": "Fooocus \"sai-digital art\"",
+    "param_map": {
+      "prompt": "concept art {value} . digital artwork, illustrative, painterly, matte painting, highly detailed",
+      "negativeprompt": "{value} photo, photorealistic, realism, ugly"
+    }
+  },
+  "fooocus/sai-enhance": {
+    "author": "local",
+    "title": "fooocus/sai-enhance",
+    "description": "Fooocus \"sai-enhance\"",
+    "param_map": {
+      "prompt": "breathtaking {value} . award-winning, professional, highly detailed",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, distorted, grainy"
+    }
+  },
+  "fooocus/sai-fantasy-art": {
+    "author": "local",
+    "title": "fooocus/sai-fantasy-art",
+    "description": "Fooocus \"sai-fantasy art\"",
+    "param_map": {
+      "prompt": "ethereal fantasy concept art of  {value} . magnificent, celestial, ethereal, painterly, epic, majestic, magical, fantasy art, cover art, dreamy",
+      "negativeprompt": "{value} photographic, realistic, realism, 35mm film, dslr, cropped, frame, text, deformed, glitch, noise, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, sloppy, duplicate, mutated, black and white"
+    }
+  },
+  "fooocus/sai-isometric": {
+    "author": "local",
+    "title": "fooocus/sai-isometric",
+    "description": "Fooocus \"sai-isometric\"",
+    "param_map": {
+      "prompt": "isometric style {value} . vibrant, beautiful, crisp, detailed, ultra detailed, intricate",
+      "negativeprompt": "{value} deformed, mutated, ugly, disfigured, blur, blurry, noise, noisy, realistic, photographic"
+    }
+  },
+  "fooocus/sai-line-art": {
+    "author": "local",
+    "title": "fooocus/sai-line-art",
+    "description": "Fooocus \"sai-line art\"",
+    "param_map": {
+      "prompt": "line art drawing {value} . professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+      "negativeprompt": "{value} anime, photorealistic, 35mm film, deformed, glitch, blurry, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, mutated, realism, realistic, impressionism, expressionism, oil, acrylic"
+    }
+  },
+  "fooocus/sai-lowpoly": {
+    "author": "local",
+    "title": "fooocus/sai-lowpoly",
+    "description": "Fooocus \"sai-lowpoly\"",
+    "param_map": {
+      "prompt": "low-poly style {value} . low-poly game art, polygon mesh, jagged, blocky, wireframe edges, centered composition",
+      "negativeprompt": "{value} noisy, sloppy, messy, grainy, highly detailed, ultra textured, photo"
+    }
+  },
+  "fooocus/sai-neonpunk": {
+    "author": "local",
+    "title": "fooocus/sai-neonpunk",
+    "description": "Fooocus \"sai-neonpunk\"",
+    "param_map": {
+      "prompt": "neonpunk style {value} . cyberpunk, vaporwave, neon, vibes, vibrant, stunningly beautiful, crisp, detailed, sleek, ultramodern, magenta highlights, dark purple shadows, high contrast, cinematic, ultra detailed, intricate, professional",
+      "negativeprompt": "{value} painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured"
+    }
+  },
+  "fooocus/sai-pixel-art": {
+    "author": "local",
+    "title": "fooocus/sai-pixel-art",
+    "description": "Fooocus \"sai-pixel art\"",
+    "param_map": {
+      "prompt": "pixel-art {value} . low-res, blocky, pixel art style, 8-bit graphics",
+      "negativeprompt": "{value} sloppy, messy, blurry, noisy, highly detailed, ultra textured, photo, realistic"
+    }
+  },
+  "fooocus/sai-origami": {
+    "author": "local",
+    "title": "fooocus/sai-origami",
+    "description": "Fooocus \"sai-origami\"",
+    "param_map": {
+      "prompt": "origami style {value} . paper art, pleated paper, folded, origami art, pleats, cut and fold, centered composition",
+      "negativeprompt": "{value} noisy, sloppy, messy, grainy, highly detailed, ultra textured, photo"
+    }
+  },
+  "fooocus/sai-photographic": {
+    "author": "local",
+    "title": "fooocus/sai-photographic",
+    "description": "Fooocus \"sai-photographic\"",
+    "param_map": {
+      "prompt": "cinematic photo {value} . 35mm photograph, film, bokeh, professional, 4k, highly detailed",
+      "negativeprompt": "{value} drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+    }
+  },
+  "fooocus/ads-advertising": {
+    "author": "local",
+    "title": "fooocus/ads-advertising",
+    "description": "Fooocus \"ads-advertising\"",
+    "param_map": {
+      "prompt": "advertising poster style {value} . Professional, modern, product-focused, commercial, eye-catching, highly detailed",
+      "negativeprompt": "{value} noisy, blurry, amateurish, sloppy, unattractive"
+    }
+  },
+  "fooocus/sai-texture": {
+    "author": "local",
+    "title": "fooocus/sai-texture",
+    "description": "Fooocus \"sai-texture\"",
+    "param_map": {
+      "prompt": "texture {value} top down close-up",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry"
+    }
+  },
+  "fooocus/ads-automotive": {
+    "author": "local",
+    "title": "fooocus/ads-automotive",
+    "description": "Fooocus \"ads-automotive\"",
+    "param_map": {
+      "prompt": "automotive advertisement style {value} . sleek, dynamic, professional, commercial, vehicle-focused, high-resolution, highly detailed",
+      "negativeprompt": "{value} noisy, blurry, unattractive, sloppy, unprofessional"
+    }
+  },
+  "fooocus/ads-corporate": {
+    "author": "local",
+    "title": "fooocus/ads-corporate",
+    "description": "Fooocus \"ads-corporate\"",
+    "param_map": {
+      "prompt": "corporate branding style {value} . professional, clean, modern, sleek, minimalist, business-oriented, highly detailed",
+      "negativeprompt": "{value} noisy, blurry, grungy, sloppy, cluttered, disorganized"
+    }
+  },
+  "fooocus/ads-fashion-editorial": {
+    "author": "local",
+    "title": "fooocus/ads-fashion-editorial",
+    "description": "Fooocus \"ads-fashion editorial\"",
+    "param_map": {
+      "prompt": "fashion editorial style {value} . high fashion, trendy, stylish, editorial, magazine style, professional, highly detailed",
+      "negativeprompt": "{value} outdated, blurry, noisy, unattractive, sloppy"
+    }
+  },
+  "fooocus/ads-food-photography": {
+    "author": "local",
+    "title": "fooocus/ads-food-photography",
+    "description": "Fooocus \"ads-food photography\"",
+    "param_map": {
+      "prompt": "food photography style {value} . appetizing, professional, culinary, high-resolution, commercial, highly detailed",
+      "negativeprompt": "{value} unappetizing, sloppy, unprofessional, noisy, blurry"
+    }
+  },
+  "fooocus/ads-gourmet-food-photography": {
+    "author": "local",
+    "title": "fooocus/ads-gourmet-food-photography",
+    "description": "Fooocus \"ads-gourmet food photography\"",
+    "param_map": {
+      "prompt": "gourmet food photo of {value} . soft natural lighting, macro details, vibrant colors, fresh ingredients, glistening textures, bokeh background, styled plating, wooden tabletop, garnished, tantalizing, editorial quality",
+      "negativeprompt": "{value} cartoon, anime, sketch, grayscale, dull, overexposed, cluttered, messy plate, deformed"
+    }
+  },
+  "fooocus/ads-luxury": {
+    "author": "local",
+    "title": "fooocus/ads-luxury",
+    "description": "Fooocus \"ads-luxury\"",
+    "param_map": {
+      "prompt": "luxury product style {value} . elegant, sophisticated, high-end, luxurious, professional, highly detailed",
+      "negativeprompt": "{value} cheap, noisy, blurry, unattractive, amateurish"
+    }
+  },
+  "fooocus/ads-real-estate": {
+    "author": "local",
+    "title": "fooocus/ads-real-estate",
+    "description": "Fooocus \"ads-real estate\"",
+    "param_map": {
+      "prompt": "real estate photography style {value} . professional, inviting, well-lit, high-resolution, property-focused, commercial, highly detailed",
+      "negativeprompt": "{value} dark, blurry, unappealing, noisy, unprofessional"
+    }
+  },
+  "fooocus/ads-retail": {
+    "author": "local",
+    "title": "fooocus/ads-retail",
+    "description": "Fooocus \"ads-retail\"",
+    "param_map": {
+      "prompt": "retail packaging style {value} . vibrant, enticing, commercial, product-focused, eye-catching, professional, highly detailed",
+      "negativeprompt": "{value} noisy, blurry, amateurish, sloppy, unattractive"
+    }
+  },
+  "fooocus/artstyle-abstract": {
+    "author": "local",
+    "title": "fooocus/artstyle-abstract",
+    "description": "Fooocus \"artstyle-abstract\"",
+    "param_map": {
+      "prompt": "abstract style {value} . non-representational, colors and shapes, expression of feelings, imaginative, highly detailed",
+      "negativeprompt": "{value} realistic, photographic, figurative, concrete"
+    }
+  },
+  "fooocus/artstyle-abstract-expressionism": {
+    "author": "local",
+    "title": "fooocus/artstyle-abstract-expressionism",
+    "description": "Fooocus \"artstyle-abstract expressionism\"",
+    "param_map": {
+      "prompt": "abstract expressionist painting {value} . energetic brushwork, bold colors, abstract forms, expressive, emotional",
+      "negativeprompt": "{value} realistic, photorealistic, low contrast, plain, simple, monochrome"
+    }
+  },
+  "fooocus/artstyle-constructivist": {
+    "author": "local",
+    "title": "fooocus/artstyle-constructivist",
+    "description": "Fooocus \"artstyle-constructivist\"",
+    "param_map": {
+      "prompt": "constructivist style {value} . geometric shapes, bold colors, dynamic composition, propaganda art style",
+      "negativeprompt": "{value} realistic, photorealistic, low contrast, plain, simple, abstract expressionism"
+    }
+  },
+  "fooocus/artstyle-art-deco": {
+    "author": "local",
+    "title": "fooocus/artstyle-art-deco",
+    "description": "Fooocus \"artstyle-art deco\"",
+    "param_map": {
+      "prompt": "art deco style {value} . geometric shapes, bold colors, luxurious, elegant, decorative, symmetrical, ornate, detailed",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, modernist, minimalist"
+    }
+  },
+  "fooocus/artstyle-art-nouveau": {
+    "author": "local",
+    "title": "fooocus/artstyle-art-nouveau",
+    "description": "Fooocus \"artstyle-art nouveau\"",
+    "param_map": {
+      "prompt": "art nouveau style {value} . elegant, decorative, curvilinear forms, nature-inspired, ornate, detailed",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, modernist, minimalist"
+    }
+  },
+  "fooocus/artstyle-cubist": {
+    "author": "local",
+    "title": "fooocus/artstyle-cubist",
+    "description": "Fooocus \"artstyle-cubist\"",
+    "param_map": {
+      "prompt": "cubist artwork {value} . geometric shapes, abstract, innovative, revolutionary",
+      "negativeprompt": "{value} anime, photorealistic, 35mm film, deformed, glitch, low contrast, noisy"
+    }
+  },
+  "fooocus/artstyle-expressionist": {
+    "author": "local",
+    "title": "fooocus/artstyle-expressionist",
+    "description": "Fooocus \"artstyle-expressionist\"",
+    "param_map": {
+      "prompt": "expressionist {value} . raw, emotional, dynamic, distortion for emotional effect, vibrant, use of unusual colors, detailed",
+      "negativeprompt": "{value} realism, symmetry, quiet, calm, photo"
+    }
+  },
+  "fooocus/artstyle-graffiti": {
+    "author": "local",
+    "title": "fooocus/artstyle-graffiti",
+    "description": "Fooocus \"artstyle-graffiti\"",
+    "param_map": {
+      "prompt": "graffiti style {value} . street art, vibrant, urban, detailed, tag, mural",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
+    }
+  },
+  "fooocus/artstyle-hyperrealism": {
+    "author": "local",
+    "title": "fooocus/artstyle-hyperrealism",
+    "description": "Fooocus \"artstyle-hyperrealism\"",
+    "param_map": {
+      "prompt": "hyperrealistic art {value} . extremely high-resolution details, photographic, realism pushed to extreme, fine texture, incredibly lifelike",
+      "negativeprompt": "{value} simplified, abstract, unrealistic, impressionistic, low resolution"
+    }
+  },
+  "fooocus/artstyle-impressionist": {
+    "author": "local",
+    "title": "fooocus/artstyle-impressionist",
+    "description": "Fooocus \"artstyle-impressionist\"",
+    "param_map": {
+      "prompt": "impressionist painting {value} . loose brushwork, vibrant color, light and shadow play, captures feeling over form",
+      "negativeprompt": "{value} anime, photorealistic, 35mm film, deformed, glitch, low contrast, noisy"
+    }
+  },
+  "fooocus/artstyle-pointillism": {
+    "author": "local",
+    "title": "fooocus/artstyle-pointillism",
+    "description": "Fooocus \"artstyle-pointillism\"",
+    "param_map": {
+      "prompt": "pointillism style {value} . composed entirely of small, distinct dots of color, vibrant, highly detailed",
+      "negativeprompt": "{value} line drawing, smooth shading, large color fields, simplistic"
+    }
+  },
+  "fooocus/artstyle-psychedelic": {
+    "author": "local",
+    "title": "fooocus/artstyle-psychedelic",
+    "description": "Fooocus \"artstyle-psychedelic\"",
+    "param_map": {
+      "prompt": "psychedelic style {value} . vibrant colors, swirling patterns, abstract forms, surreal, trippy",
+      "negativeprompt": "{value} monochrome, black and white, low contrast, realistic, photorealistic, plain, simple"
+    }
+  },
+  "fooocus/artstyle-steampunk": {
+    "author": "local",
+    "title": "fooocus/artstyle-steampunk",
+    "description": "Fooocus \"artstyle-steampunk\"",
+    "param_map": {
+      "prompt": "steampunk style {value} . antique, mechanical, brass and copper tones, gears, intricate, detailed",
+      "negativeprompt": "{value} deformed, glitch, noisy, low contrast, anime, photorealistic"
+    }
+  },
+  "fooocus/artstyle-renaissance": {
+    "author": "local",
+    "title": "fooocus/artstyle-renaissance",
+    "description": "Fooocus \"artstyle-renaissance\"",
+    "param_map": {
+      "prompt": "renaissance style {value} . realistic, perspective, light and shadow, religious or mythological themes, highly detailed",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, modernist, minimalist, abstract"
+    }
+  },
+  "fooocus/artstyle-pop-art": {
+    "author": "local",
+    "title": "fooocus/artstyle-pop-art",
+    "description": "Fooocus \"artstyle-pop art\"",
+    "param_map": {
+      "prompt": "pop Art style {value} . bright colors, bold outlines, popular culture themes, ironic or kitsch",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, minimalist"
+    }
+  },
+  "fooocus/artstyle-surrealist": {
+    "author": "local",
+    "title": "fooocus/artstyle-surrealist",
+    "description": "Fooocus \"artstyle-surrealist\"",
+    "param_map": {
+      "prompt": "surrealist art {value} . dreamlike, mysterious, provocative, symbolic, intricate, detailed",
+      "negativeprompt": "{value} anime, photorealistic, realistic, deformed, glitch, noisy, low contrast"
+    }
+  },
+  "fooocus/artstyle-typography": {
+    "author": "local",
+    "title": "fooocus/artstyle-typography",
+    "description": "Fooocus \"artstyle-typography\"",
+    "param_map": {
+      "prompt": "typographic art {value} . stylized, intricate, detailed, artistic, text-based",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
+    }
+  },
+  "fooocus/artstyle-watercolor": {
+    "author": "local",
+    "title": "fooocus/artstyle-watercolor",
+    "description": "Fooocus \"artstyle-watercolor\"",
+    "param_map": {
+      "prompt": "watercolor painting {value} . vibrant, beautiful, painterly, detailed, textural, artistic",
+      "negativeprompt": "{value} anime, photorealistic, 35mm film, deformed, glitch, low contrast, noisy"
+    }
+  },
+  "fooocus/futuristic-biomechanical": {
+    "author": "local",
+    "title": "fooocus/futuristic-biomechanical",
+    "description": "Fooocus \"futuristic-biomechanical\"",
+    "param_map": {
+      "prompt": "biomechanical style {value} . blend of organic and mechanical elements, futuristic, cybernetic, detailed, intricate",
+      "negativeprompt": "{value} natural, rustic, primitive, organic, simplistic"
+    }
+  },
+  "fooocus/futuristic-biomechanical-cyberpunk": {
+    "author": "local",
+    "title": "fooocus/futuristic-biomechanical-cyberpunk",
+    "description": "Fooocus \"futuristic-biomechanical cyberpunk\"",
+    "param_map": {
+      "prompt": "biomechanical cyberpunk {value} . cybernetics, human-machine fusion, dystopian, organic meets artificial, dark, intricate, highly detailed",
+      "negativeprompt": "{value} natural, colorful, deformed, sketch, low contrast, watercolor"
+    }
+  },
+  "fooocus/futuristic-cybernetic-robot": {
+    "author": "local",
+    "title": "fooocus/futuristic-cybernetic-robot",
+    "description": "Fooocus \"futuristic-cybernetic robot\"",
+    "param_map": {
+      "prompt": "cybernetic robot {value} . android, AI, machine, metal, wires, tech, futuristic, highly detailed",
+      "negativeprompt": "{value} organic, natural, human, sketch, watercolor, low contrast",
+      "images": "1"
+    }
+  },
+  "fooocus/futuristic-cyberpunk-cityscape": {
+    "author": "local",
+    "title": "fooocus/futuristic-cyberpunk-cityscape",
+    "description": "Fooocus \"futuristic-cyberpunk cityscape\"",
+    "param_map": {
+      "prompt": "cyberpunk cityscape {value} . neon lights, dark alleys, skyscrapers, futuristic, vibrant colors, high contrast, highly detailed",
+      "negativeprompt": "{value} natural, rural, deformed, low contrast, black and white, sketch, watercolor"
+    }
+  },
+  "fooocus/futuristic-cybernetic": {
+    "author": "local",
+    "title": "fooocus/futuristic-cybernetic",
+    "description": "Fooocus \"futuristic-cybernetic\"",
+    "param_map": {
+      "prompt": "cybernetic style {value} . futuristic, technological, cybernetic enhancements, robotics, artificial intelligence themes",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, historical, medieval"
+    }
+  },
+  "fooocus/futuristic-futuristic": {
+    "author": "local",
+    "title": "fooocus/futuristic-futuristic",
+    "description": "Fooocus \"futuristic-futuristic\"",
+    "param_map": {
+      "prompt": "futuristic style {value} . sleek, modern, ultramodern, high tech, detailed",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, vintage, antique"
+    }
+  },
+  "fooocus/futuristic-retro-cyberpunk": {
+    "author": "local",
+    "title": "fooocus/futuristic-retro-cyberpunk",
+    "description": "Fooocus \"futuristic-retro cyberpunk\"",
+    "param_map": {
+      "prompt": "retro cyberpunk {value} . 80's inspired, synthwave, neon, vibrant, detailed, retro futurism",
+      "negativeprompt": "{value} modern, desaturated, black and white, realism, low contrast"
+    }
+  },
+  "fooocus/futuristic-retro-futurism": {
+    "author": "local",
+    "title": "fooocus/futuristic-retro-futurism",
+    "description": "Fooocus \"futuristic-retro futurism\"",
+    "param_map": {
+      "prompt": "retro-futuristic {value} . vintage sci-fi, 50s and 60s style, atomic age, vibrant, highly detailed",
+      "negativeprompt": "{value} contemporary, realistic, rustic, primitive"
+    }
+  },
+  "fooocus/game-bubble-bobble": {
+    "author": "local",
+    "title": "fooocus/game-bubble-bobble",
+    "description": "Fooocus \"game-bubble bobble\"",
+    "param_map": {
+      "prompt": "Bubble Bobble style {value} . 8-bit, cute, pixelated, fantasy, vibrant, reminiscent of Bubble Bobble game",
+      "negativeprompt": "{value} realistic, modern, photorealistic, violent, horror"
+    }
+  },
+  "fooocus/futuristic-sci-fi": {
+    "author": "local",
+    "title": "fooocus/futuristic-sci-fi",
+    "description": "Fooocus \"futuristic-sci-fi\"",
+    "param_map": {
+      "prompt": "sci-fi style {value} . futuristic, technological, alien worlds, space themes, advanced civilizations",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, historical, medieval"
+    }
+  },
+  "fooocus/futuristic-vaporwave": {
+    "author": "local",
+    "title": "fooocus/futuristic-vaporwave",
+    "description": "Fooocus \"futuristic-vaporwave\"",
+    "param_map": {
+      "prompt": "vaporwave style {value} . retro aesthetic, cyberpunk, vibrant, neon colors, vintage 80s and 90s style, highly detailed",
+      "negativeprompt": "{value} monochrome, muted colors, realism, rustic, minimalist, dark"
+    }
+  },
+  "fooocus/game-cyberpunk-game": {
+    "author": "local",
+    "title": "fooocus/game-cyberpunk-game",
+    "description": "Fooocus \"game-cyberpunk game\"",
+    "param_map": {
+      "prompt": "cyberpunk game style {value} . neon, dystopian, futuristic, digital, vibrant, detailed, high contrast, reminiscent of cyberpunk genre video games",
+      "negativeprompt": "{value} historical, natural, rustic, low detailed"
+    }
+  },
+  "fooocus/game-fighting-game": {
+    "author": "local",
+    "title": "fooocus/game-fighting-game",
+    "description": "Fooocus \"game-fighting game\"",
+    "param_map": {
+      "prompt": "fighting game style {value} . dynamic, vibrant, action-packed, detailed character design, reminiscent of fighting video games",
+      "negativeprompt": "{value} peaceful, calm, minimalist, photorealistic"
+    }
+  },
+  "fooocus/game-pokemon": {
+    "author": "local",
+    "title": "fooocus/game-pokemon",
+    "description": "Fooocus \"game-pokemon\"",
+    "param_map": {
+      "prompt": "Pokémon style {value} . vibrant, cute, anime, fantasy, reminiscent of Pokémon series",
+      "negativeprompt": "{value} realistic, modern, horror, dystopian, violent"
+    }
+  },
+  "fooocus/game-gta": {
+    "author": "local",
+    "title": "fooocus/game-gta",
+    "description": "Fooocus \"game-gta\"",
+    "param_map": {
+      "prompt": "GTA-style artwork {value} . satirical, exaggerated, pop art style, vibrant colors, iconic characters, action-packed",
+      "negativeprompt": "{value} realistic, black and white, low contrast, impressionist, cubist, noisy, blurry, deformed"
+    }
+  },
+  "fooocus/game-minecraft": {
+    "author": "local",
+    "title": "fooocus/game-minecraft",
+    "description": "Fooocus \"game-minecraft\"",
+    "param_map": {
+      "prompt": "Minecraft style {value} . blocky, pixelated, vibrant colors, recognizable characters and objects, game assets",
+      "negativeprompt": "{value} smooth, realistic, detailed, photorealistic, noise, blurry, deformed"
+    }
+  },
+  "fooocus/game-retro-arcade": {
+    "author": "local",
+    "title": "fooocus/game-retro-arcade",
+    "description": "Fooocus \"game-retro arcade\"",
+    "param_map": {
+      "prompt": "retro arcade style {value} . 8-bit, pixelated, vibrant, classic video game, old school gaming, reminiscent of 80s and 90s arcade games",
+      "negativeprompt": "{value} modern, ultra-high resolution, photorealistic, 3D"
+    }
+  },
+  "fooocus/game-mario": {
+    "author": "local",
+    "title": "fooocus/game-mario",
+    "description": "Fooocus \"game-mario\"",
+    "param_map": {
+      "prompt": "Super Mario style {value} . vibrant, cute, cartoony, fantasy, playful, reminiscent of Super Mario series",
+      "negativeprompt": "{value} realistic, modern, horror, dystopian, violent"
+    }
+  },
+  "fooocus/game-retro-game": {
+    "author": "local",
+    "title": "fooocus/game-retro-game",
+    "description": "Fooocus \"game-retro game\"",
+    "param_map": {
+      "prompt": "retro game art {value} . 16-bit, vibrant colors, pixelated, nostalgic, charming, fun",
+      "negativeprompt": "{value} realistic, photorealistic, 35mm film, deformed, glitch, low contrast, noisy"
+    }
+  },
+  "fooocus/game-rpg-fantasy-game": {
+    "author": "local",
+    "title": "fooocus/game-rpg-fantasy-game",
+    "description": "Fooocus \"game-rpg fantasy game\"",
+    "param_map": {
+      "prompt": "role-playing game (RPG) style fantasy {value} . detailed, vibrant, immersive, reminiscent of high fantasy RPG games",
+      "negativeprompt": "{value} sci-fi, modern, urban, futuristic, low detailed"
+    }
+  },
+  "fooocus/game-strategy-game": {
+    "author": "local",
+    "title": "fooocus/game-strategy-game",
+    "description": "Fooocus \"game-strategy game\"",
+    "param_map": {
+      "prompt": "strategy game style {value} . overhead view, detailed map, units, reminiscent of real-time strategy video games",
+      "negativeprompt": "{value} first-person view, modern, photorealistic"
+    }
+  },
+  "fooocus/game-streetfighter": {
+    "author": "local",
+    "title": "fooocus/game-streetfighter",
+    "description": "Fooocus \"game-streetfighter\"",
+    "param_map": {
+      "prompt": "Street Fighter style {value} . vibrant, dynamic, arcade, 2D fighting game, highly detailed, reminiscent of Street Fighter series",
+      "negativeprompt": "{value} 3D, realistic, modern, photorealistic, turn-based strategy"
+    }
+  },
+  "fooocus/misc-dreamscape": {
+    "author": "local",
+    "title": "fooocus/misc-dreamscape",
+    "description": "Fooocus \"misc-dreamscape\"",
+    "param_map": {
+      "prompt": "dreamscape {value} . surreal, ethereal, dreamy, mysterious, fantasy, highly detailed",
+      "negativeprompt": "{value} realistic, concrete, ordinary, mundane"
+    }
+  },
+  "fooocus/misc-architectural": {
+    "author": "local",
+    "title": "fooocus/misc-architectural",
+    "description": "Fooocus \"misc-architectural\"",
+    "param_map": {
+      "prompt": "architectural style {value} . clean lines, geometric shapes, minimalist, modern, architectural drawing, highly detailed",
+      "negativeprompt": "{value} curved lines, ornate, baroque, abstract, grunge"
+    }
+  },
+  "fooocus/misc-disco": {
+    "author": "local",
+    "title": "fooocus/misc-disco",
+    "description": "Fooocus \"misc-disco\"",
+    "param_map": {
+      "prompt": "disco-themed {value} . vibrant, groovy, retro 70s style, shiny disco balls, neon lights, dance floor, highly detailed",
+      "negativeprompt": "{value} minimalist, rustic, monochrome, contemporary, simplistic"
+    }
+  },
+  "fooocus/game-zelda": {
+    "author": "local",
+    "title": "fooocus/game-zelda",
+    "description": "Fooocus \"game-zelda\"",
+    "param_map": {
+      "prompt": "Legend of Zelda style {value} . vibrant, fantasy, detailed, epic, heroic, reminiscent of The Legend of Zelda series",
+      "negativeprompt": "{value} sci-fi, modern, realistic, horror"
+    }
+  },
+  "fooocus/misc-dystopian": {
+    "author": "local",
+    "title": "fooocus/misc-dystopian",
+    "description": "Fooocus \"misc-dystopian\"",
+    "param_map": {
+      "prompt": "dystopian style {value} . bleak, post-apocalyptic, somber, dramatic, highly detailed",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, cheerful, optimistic, vibrant, colorful"
+    }
+  },
+  "fooocus/misc-fairy-tale": {
+    "author": "local",
+    "title": "fooocus/misc-fairy-tale",
+    "description": "Fooocus \"misc-fairy tale\"",
+    "param_map": {
+      "prompt": "fairy tale {value} . magical, fantastical, enchanting, storybook style, highly detailed",
+      "negativeprompt": "{value} realistic, modern, ordinary, mundane"
+    }
+  },
+  "fooocus/misc-gothic": {
+    "author": "local",
+    "title": "fooocus/misc-gothic",
+    "description": "Fooocus \"misc-gothic\"",
+    "param_map": {
+      "prompt": "gothic style {value} . dark, mysterious, haunting, dramatic, ornate, detailed",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, cheerful, optimistic"
+    }
+  },
+  "fooocus/misc-horror": {
+    "author": "local",
+    "title": "fooocus/misc-horror",
+    "description": "Fooocus \"misc-horror\"",
+    "param_map": {
+      "prompt": "horror-themed {value} . eerie, unsettling, dark, spooky, suspenseful, grim, highly detailed",
+      "negativeprompt": "{value} cheerful, bright, vibrant, light-hearted, cute"
+    }
+  },
+  "fooocus/misc-kawaii": {
+    "author": "local",
+    "title": "fooocus/misc-kawaii",
+    "description": "Fooocus \"misc-kawaii\"",
+    "param_map": {
+      "prompt": "kawaii style {value} . cute, adorable, brightly colored, cheerful, anime influence, highly detailed",
+      "negativeprompt": "{value} dark, scary, realistic, monochrome, abstract"
+    }
+  },
+  "fooocus/misc-grunge": {
+    "author": "local",
+    "title": "fooocus/misc-grunge",
+    "description": "Fooocus \"misc-grunge\"",
+    "param_map": {
+      "prompt": "grunge style {value} . textured, distressed, vintage, edgy, punk rock vibe, dirty, noisy",
+      "negativeprompt": "{value} smooth, clean, minimalist, sleek, modern, photorealistic"
+    }
+  },
+  "fooocus/misc-lovecraftian": {
+    "author": "local",
+    "title": "fooocus/misc-lovecraftian",
+    "description": "Fooocus \"misc-lovecraftian\"",
+    "param_map": {
+      "prompt": "lovecraftian horror {value} . eldritch, cosmic horror, unknown, mysterious, surreal, highly detailed",
+      "negativeprompt": "{value} light-hearted, mundane, familiar, simplistic, realistic"
+    }
+  },
+  "fooocus/misc-manga": {
+    "author": "local",
+    "title": "fooocus/misc-manga",
+    "description": "Fooocus \"misc-manga\"",
+    "param_map": {
+      "prompt": "manga style {value} . vibrant, high-energy, detailed, iconic, Japanese comic style",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, Western comic style"
+    }
+  },
+  "fooocus/misc-macabre": {
+    "author": "local",
+    "title": "fooocus/misc-macabre",
+    "description": "Fooocus \"misc-macabre\"",
+    "param_map": {
+      "prompt": "macabre style {value} . dark, gothic, grim, haunting, highly detailed",
+      "negativeprompt": "{value} bright, cheerful, light-hearted, cartoonish, cute"
+    }
+  },
+  "fooocus/misc-metropolis": {
+    "author": "local",
+    "title": "fooocus/misc-metropolis",
+    "description": "Fooocus \"misc-metropolis\"",
+    "param_map": {
+      "prompt": "metropolis-themed {value} . urban, cityscape, skyscrapers, modern, futuristic, highly detailed",
+      "negativeprompt": "{value} rural, natural, rustic, historical, simple"
+    }
+  },
+  "fooocus/misc-minimalist": {
+    "author": "local",
+    "title": "fooocus/misc-minimalist",
+    "description": "Fooocus \"misc-minimalist\"",
+    "param_map": {
+      "prompt": "minimalist style {value} . simple, clean, uncluttered, modern, elegant",
+      "negativeprompt": "{value} ornate, complicated, highly detailed, cluttered, disordered, messy, noisy"
+    }
+  },
+  "fooocus/misc-nautical": {
+    "author": "local",
+    "title": "fooocus/misc-nautical",
+    "description": "Fooocus \"misc-nautical\"",
+    "param_map": {
+      "prompt": "nautical-themed {value} . sea, ocean, ships, maritime, beach, marine life, highly detailed",
+      "negativeprompt": "{value} landlocked, desert, mountains, urban, rustic"
+    }
+  },
+  "fooocus/misc-monochrome": {
+    "author": "local",
+    "title": "fooocus/misc-monochrome",
+    "description": "Fooocus \"misc-monochrome\"",
+    "param_map": {
+      "prompt": "monochrome {value} . black and white, contrast, tone, texture, detailed",
+      "negativeprompt": "{value} colorful, vibrant, noisy, blurry, deformed"
+    }
+  },
+  "fooocus/misc-space": {
+    "author": "local",
+    "title": "fooocus/misc-space",
+    "description": "Fooocus \"misc-space\"",
+    "param_map": {
+      "prompt": "space-themed {value} . cosmic, celestial, stars, galaxies, nebulas, planets, science fiction, highly detailed",
+      "negativeprompt": "{value} earthly, mundane, ground-based, realism"
+    }
+  },
+  "fooocus/misc-stained-glass": {
+    "author": "local",
+    "title": "fooocus/misc-stained-glass",
+    "description": "Fooocus \"misc-stained glass\"",
+    "param_map": {
+      "prompt": "stained glass style {value} . vibrant, beautiful, translucent, intricate, detailed",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
+    }
+  },
+  "fooocus/misc-tribal": {
+    "author": "local",
+    "title": "fooocus/misc-tribal",
+    "description": "Fooocus \"misc-tribal\"",
+    "param_map": {
+      "prompt": "tribal style {value} . indigenous, ethnic, traditional patterns, bold, natural colors, highly detailed",
+      "negativeprompt": "{value} modern, futuristic, minimalist, pastel"
+    }
+  },
+  "fooocus/misc-techwear-fashion": {
+    "author": "local",
+    "title": "fooocus/misc-techwear-fashion",
+    "description": "Fooocus \"misc-techwear fashion\"",
+    "param_map": {
+      "prompt": "techwear fashion {value} . futuristic, cyberpunk, urban, tactical, sleek, dark, highly detailed",
+      "negativeprompt": "{value} vintage, rural, colorful, low contrast, realism, sketch, watercolor"
+    }
+  },
+  "fooocus/misc-zentangle": {
+    "author": "local",
+    "title": "fooocus/misc-zentangle",
+    "description": "Fooocus \"misc-zentangle\"",
+    "param_map": {
+      "prompt": "zentangle {value} . intricate, abstract, monochrome, patterns, meditative, highly detailed",
+      "negativeprompt": "{value} colorful, representative, simplistic, large fields of color"
+    }
+  },
+  "fooocus/papercraft-collage": {
+    "author": "local",
+    "title": "fooocus/papercraft-collage",
+    "description": "Fooocus \"papercraft-collage\"",
+    "param_map": {
+      "prompt": "collage style {value} . mixed media, layered, textural, detailed, artistic",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
+    }
+  },
+  "fooocus/papercraft-paper-quilling": {
+    "author": "local",
+    "title": "fooocus/papercraft-paper-quilling",
+    "description": "Fooocus \"papercraft-paper quilling\"",
+    "param_map": {
+      "prompt": "paper quilling art of {value} . intricate, delicate, curling, rolling, shaping, coiling, loops, 3D, dimensional, ornamental",
+      "negativeprompt": "{value} photo, painting, drawing, 2D, flat, deformed, noisy, blurry"
+    }
+  },
+  "fooocus/papercraft-flat-papercut": {
+    "author": "local",
+    "title": "fooocus/papercraft-flat-papercut",
+    "description": "Fooocus \"papercraft-flat papercut\"",
+    "param_map": {
+      "prompt": "flat papercut style {value} . silhouette, clean cuts, paper, sharp edges, minimalist, color block",
+      "negativeprompt": "{value} 3D, high detail, noise, grainy, blurry, painting, drawing, photo, disfigured"
+    }
+  },
+  "fooocus/papercraft-kirigami": {
+    "author": "local",
+    "title": "fooocus/papercraft-kirigami",
+    "description": "Fooocus \"papercraft-kirigami\"",
+    "param_map": {
+      "prompt": "kirigami representation of {value} . 3D, paper folding, paper cutting, Japanese, intricate, symmetrical, precision, clean lines",
+      "negativeprompt": "{value} painting, drawing, 2D, noisy, blurry, deformed"
+    }
+  },
+  "fooocus/papercraft-paper-mache": {
+    "author": "local",
+    "title": "fooocus/papercraft-paper-mache",
+    "description": "Fooocus \"papercraft-paper mache\"",
+    "param_map": {
+      "prompt": "paper mache representation of {value} . 3D, sculptural, textured, handmade, vibrant, fun",
+      "negativeprompt": "{value} 2D, flat, photo, sketch, digital art, deformed, noisy, blurry"
+    }
+  },
+  "fooocus/papercraft-papercut-collage": {
+    "author": "local",
+    "title": "fooocus/papercraft-papercut-collage",
+    "description": "Fooocus \"papercraft-papercut collage\"",
+    "param_map": {
+      "prompt": "papercut collage of {value} . mixed media, textured paper, overlapping, asymmetrical, abstract, vibrant",
+      "negativeprompt": "{value} photo, 3D, realistic, drawing, painting, high detail, disfigured"
+    }
+  },
+  "fooocus/papercraft-papercut-shadow-box": {
+    "author": "local",
+    "title": "fooocus/papercraft-papercut-shadow-box",
+    "description": "Fooocus \"papercraft-papercut shadow box\"",
+    "param_map": {
+      "prompt": "3D papercut shadow box of {value} . layered, dimensional, depth, silhouette, shadow, papercut, handmade, high contrast",
+      "negativeprompt": "{value} painting, drawing, photo, 2D, flat, high detail, blurry, noisy, disfigured"
+    }
+  },
+  "fooocus/papercraft-stacked-papercut": {
+    "author": "local",
+    "title": "fooocus/papercraft-stacked-papercut",
+    "description": "Fooocus \"papercraft-stacked papercut\"",
+    "param_map": {
+      "prompt": "stacked papercut art of {value} . 3D, layered, dimensional, depth, precision cut, stacked layers, papercut, high contrast",
+      "negativeprompt": "{value} 2D, flat, noisy, blurry, painting, drawing, photo, deformed"
+    }
+  },
+  "fooocus/photo-alien": {
+    "author": "local",
+    "title": "fooocus/photo-alien",
+    "description": "Fooocus \"photo-alien\"",
+    "param_map": {
+      "prompt": "alien-themed {value} . extraterrestrial, cosmic, otherworldly, mysterious, sci-fi, highly detailed",
+      "negativeprompt": "{value} earthly, mundane, common, realistic, simple"
+    }
+  },
+  "fooocus/photo-film-noir": {
+    "author": "local",
+    "title": "fooocus/photo-film-noir",
+    "description": "Fooocus \"photo-film noir\"",
+    "param_map": {
+      "prompt": "film noir style {value} . monochrome, high contrast, dramatic shadows, 1940s style, mysterious, cinematic",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, vibrant, colorful"
+    }
+  },
+  "fooocus/papercraft-thick-layered-papercut": {
+    "author": "local",
+    "title": "fooocus/papercraft-thick-layered-papercut",
+    "description": "Fooocus \"papercraft-thick layered papercut\"",
+    "param_map": {
+      "prompt": "thick layered papercut art of {value} . deep 3D, volumetric, dimensional, depth, thick paper, high stack, heavy texture, tangible layers",
+      "negativeprompt": "{value} 2D, flat, thin paper, low stack, smooth texture, painting, drawing, photo, deformed"
+    }
+  },
+  "fooocus/photo-glamour": {
+    "author": "local",
+    "title": "fooocus/photo-glamour",
+    "description": "Fooocus \"photo-glamour\"",
+    "param_map": {
+      "prompt": "glamorous photo {value} . high fashion, luxurious, extravagant, stylish, sensual, opulent, elegance, stunning beauty, professional, high contrast, detailed",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, distorted, grainy, sketch, low contrast, dull, plain, modest"
+    }
+  },
+  "fooocus/photo-hdr": {
+    "author": "local",
+    "title": "fooocus/photo-hdr",
+    "description": "Fooocus \"photo-hdr\"",
+    "param_map": {
+      "prompt": "HDR photo of {value} . High dynamic range, vivid, rich details, clear shadows and highlights, realistic, intense, enhanced contrast, highly detailed",
+      "negativeprompt": "{value} flat, low contrast, oversaturated, underexposed, overexposed, blurred, noisy"
+    }
+  },
+  "fooocus/photo-iphone-photographic": {
+    "author": "local",
+    "title": "fooocus/photo-iphone-photographic",
+    "description": "Fooocus \"photo-iphone photographic\"",
+    "param_map": {
+      "prompt": "iphone photo {value} . large depth of field, deep depth of field, highly detailed",
+      "negativeprompt": "{value} drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly, shallow depth of field, bokeh"
+    }
+  },
+  "fooocus/photo-long-exposure": {
+    "author": "local",
+    "title": "fooocus/photo-long-exposure",
+    "description": "Fooocus \"photo-long exposure\"",
+    "param_map": {
+      "prompt": "long exposure photo of {value} . Blurred motion, streaks of light, surreal, dreamy, ghosting effect, highly detailed",
+      "negativeprompt": "{value} static, noisy, deformed, shaky, abrupt, flat, low contrast"
+    }
+  },
+  "fooocus/photo-neon-noir": {
+    "author": "local",
+    "title": "fooocus/photo-neon-noir",
+    "description": "Fooocus \"photo-neon noir\"",
+    "param_map": {
+      "prompt": "neon noir {value} . cyberpunk, dark, rainy streets, neon signs, high contrast, low light, vibrant, highly detailed",
+      "negativeprompt": "{value} bright, sunny, daytime, low contrast, black and white, sketch, watercolor"
+    }
+  },
+  "fooocus/photo-silhouette": {
+    "author": "local",
+    "title": "fooocus/photo-silhouette",
+    "description": "Fooocus \"photo-silhouette\"",
+    "param_map": {
+      "prompt": "silhouette style {value} . high contrast, minimalistic, black and white, stark, dramatic",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, low contrast, color, realism, photorealistic"
+    }
+  },
+  "fooocus/photo-tilt-shift": {
+    "author": "local",
+    "title": "fooocus/photo-tilt-shift",
+    "description": "Fooocus \"photo-tilt-shift\"",
+    "param_map": {
+      "prompt": "tilt-shift photo of {value} . selective focus, miniature effect, blurred background, highly detailed, vibrant, perspective control",
+      "negativeprompt": "{value} blurry, noisy, deformed, flat, low contrast, unrealistic, oversaturated, underexposed"
+    }
+  }
+}

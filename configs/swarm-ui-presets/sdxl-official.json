@@ -1,0 +1,155 @@
+{
+  "sdxl/anime": {
+    "author": "local",
+    "title": "sdxl/anime",
+    "description": "SDXL \"Anime\"",
+    "param_map": {
+      "prompt": "anime artwork {value} . anime style, key visual, vibrant, studio anime, highly detailed",
+      "negativeprompt": "{value} photo, deformed, black and white, realism, disfigured, low contrast"
+    }
+  },
+  "sdxl/fantasy art": {
+    "author": "local",
+    "title": "sdxl/fantasy-art",
+    "description": "SDXL \"Fantasy Art\"",
+    "param_map": {
+      "prompt": "ethereal fantasy concept art of {value} . magnificent, celestial, ethereal, painterly, epic, majestic, magical, fantasy art, cover art, dreamy",
+      "negativeprompt": "{value} photographic, realistic, realism, 35mm film, dslr, cropped, frame, text, deformed, glitch, noise, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, sloppy, duplicate, mutated, black and white"
+    }
+  },
+  "sdxl/comic book": {
+    "author": "local",
+    "title": "sdxl/comic-book",
+    "description": "SDXL \"Comic Book\"",
+    "param_map": {
+      "prompt": "comic {value} . graphic illustration, comic art, graphic novel art, vibrant, highly detailed",
+      "negativeprompt": "{value} photograph, deformed, glitch, noisy, realistic, stock photo"
+    }
+  },
+  "sdxl/photographic": {
+    "author": "local",
+    "title": "sdxl/photographic",
+    "description": "SDXL \"Photographic\"",
+    "param_map": {
+      "prompt": "cinematic photo {value} . 35mm photograph, film, bokeh, professional, 4k, highly detailed",
+      "negativeprompt": "{value} drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+    }
+  },
+  "sdxl/digital art": {
+    "author": "local",
+    "title": "sdxl/digital-art",
+    "description": "SDXL \"Digital Art\"",
+    "param_map": {
+      "prompt": "concept art {value} . digital artwork, illustrative, painterly, matte painting, highly detailed",
+      "negativeprompt": "{value} photo, photorealistic, realism, ugly"
+    }
+  },
+  "sdxl/analog film": {
+    "author": "local",
+    "title": "sdxl/analog-film",
+    "description": "SDXL \"Analog Film\"",
+    "param_map": {
+      "prompt": "analog film photo {value} . faded film, desaturated, 35mm photo, grainy, vignette, vintage, Kodachrome, Lomography, stained, highly detailed, found footage",
+      "negativeprompt": "{value} painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured"
+    }
+  },
+  "sdxl/texture": {
+    "author": "local",
+    "title": "sdxl/texture",
+    "description": "SDXL \"Texture\"",
+    "param_map": {
+      "prompt": "texture {value} top down close-up",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry"
+    }
+  },
+  "sdxl/origami": {
+    "author": "local",
+    "title": "sdxl/origami",
+    "description": "SDXL \"Origami\"",
+    "param_map": {
+      "prompt": "origami style {value} . paper art, pleated paper, folded, origami art, pleats, cut and fold, centered composition",
+      "negativeprompt": "{value} noisy, sloppy, messy, grainy, highly detailed, ultra textured, photo"
+    }
+  },
+  "sdxl/line art": {
+    "author": "local",
+    "title": "sdxl/line-art",
+    "description": "SDXL \"Line Art\"",
+    "param_map": {
+      "prompt": "line art drawing {value} . professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+      "negativeprompt": "{value} anime, photorealistic, 35mm film, deformed, glitch, blurry, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, mutated, realism, realistic, impressionism, expressionism, oil, acrylic"
+    }
+  },
+  "sdxl/lowpoly": {
+    "author": "local",
+    "title": "sdxl/lowpoly",
+    "description": "SDXL \"Low Poly\"",
+    "param_map": {
+      "prompt": "low-poly style {value} . low-poly game art, polygon mesh, jagged, blocky, wireframe edges, centered composition",
+      "negativeprompt": "{value} noisy, sloppy, messy, grainy, highly detailed, ultra textured, photo"
+    }
+  },
+  "sdxl/3d-model": {
+    "author": "local",
+    "title": "sdxl/3d-model",
+    "description": "SDXL \"3D Model\"",
+    "param_map": {
+      "prompt": "professional 3d model {value} . octane render, highly detailed, volumetric, dramatic lighting",
+      "negativeprompt": "{value} ugly, deformed, noisy, low poly, blurry, painting"
+    }
+  },
+  "sdxl/craft clay": {
+    "author": "local",
+    "title": "sdxl/craft-clay",
+    "description": "SDXL \"Craft Clay\"",
+    "param_map": {
+      "prompt": "play-doh style {value} . sculpture, clay art, centered composition, Claymation",
+      "negativeprompt": "{value} sloppy, messy, grainy, highly detailed, ultra textured, photo"
+    }
+  },
+  "sdxl/isometric": {
+    "author": "local",
+    "title": "sdxl/isometric",
+    "description": "SDXL \"Isometric\"",
+    "param_map": {
+      "prompt": "isometric style {value} . vibrant, beautiful, crisp, detailed, ultra detailed, intricate",
+      "negativeprompt": "{value} deformed, mutated, ugly, disfigured, blur, blurry, noise, noisy, realistic, photographic"
+    }
+  },
+  "sdxl/cinematic": {
+    "author": "local",
+    "title": "sdxl/cinematic",
+    "description": "SDXL \"Cinematic\"",
+    "param_map": {
+      "prompt": "cinematic film still {value} . shallow depth of field, vignette, highly detailed, high budget, bokeh, cinemascope, moody, epic, gorgeous, film grain, grainy",
+      "negativeprompt": "{value} anime, cartoon, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured"
+    }
+  },
+  "sdxl/pixel art": {
+    "author": "local",
+    "title": "sdxl/pixel-art",
+    "description": "SDXL \"Pixel Art\"",
+    "param_map": {
+      "prompt": "pixel-art {value} . low-res, blocky, pixel art style, 8-bit graphics",
+      "negativeprompt": "{value} sloppy, messy, blurry, noisy, highly detailed, ultra textured, photo, realistic"
+    }
+  },
+  "sdxl/neonpunk": {
+    "author": "local",
+    "title": "sdxl/neonpunk",
+    "description": "SDXL \"Neon Punk\"",
+    "param_map": {
+      "prompt": "neonpunk style {value} . cyberpunk, vaporwave, neon, vibes, vibrant, stunningly beautiful, crisp, detailed, sleek, ultramodern, magenta highlights, dark purple shadows, high contrast, cinematic, ultra detailed, intricate, professional",
+      "negativeprompt": "{value} painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured"
+    }
+  },
+  "sdxl/enhance": {
+    "author": "local",
+    "title": "sdxl/enhance",
+    "description": "SDXL \"Enhance\"",
+    "param_map": {
+      "prompt": "breathtaking {value} . award-winning, professional, highly detailed",
+      "negativeprompt": "{value} ugly, deformed, noisy, blurry, distorted, grainy"
+    }
+  }
+}
