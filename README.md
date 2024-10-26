@@ -28,5 +28,4 @@ You can find them here:
 
 ## Contact
 
-- Blog: [eikowagenknecht.de](https://eikowagenknecht.de)
-- Mail: [git@eiko-wagenknecht.de](mailto:git@eiko-wagenknecht.de)
+You can find my contact information on my blog: [eikowagenknecht.de](https://eikowagenknecht.de)
