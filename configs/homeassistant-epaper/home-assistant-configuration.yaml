@@ -1,0 +1,71 @@
+template:
+  - trigger:
+      - trigger: state
+        entity_id:
+          - weather.my_location
+      - trigger: event
+        event_type: event_template_reloaded
+      - trigger: time_pattern
+        minutes: "/5"
+    action:
+      - action: weather.get_forecasts
+        data:
+          type: hourly
+        target:
+          entity_id: weather.my_location
+        response_variable: hourly
+      - variables:
+          hour0: "{{ hourly['weather.my_location'].forecast[0] }}"
+          hour1: "{{ hourly['weather.my_location'].forecast[1] }}"
+          hour2: "{{ hourly['weather.my_location'].forecast[2] }}"
+          hour3: "{{ hourly['weather.my_location'].forecast[3] }}"
+          hour4: "{{ hourly['weather.my_location'].forecast[4] }}"
+    sensor:
+      - unique_id: wetter_in_1h_temperatur
+        name: Wetter in 1h Temperatur
+        unit_of_measurement: "°C"
+        state: "{{ hour1.temperature }}"
+        device_class: temperature
+      - unique_id: wetter_in_2h_temperatur
+        name: Wetter in 2h Temperatur
+        unit_of_measurement: "°C"
+        state: "{{ hour2.temperature }}"
+        device_class: temperature
+      - unique_id: wetter_in_3h_temperatur
+        name: Wetter in 3h Temperatur
+        unit_of_measurement: "°C"
+        state: "{{ hour3.temperature }}"
+        device_class: temperature
+      - unique_id: wetter_in_0h_temperatur
+        name: Wetter in 0h Temperatur
+        unit_of_measurement: "°C"
+        state: "{{ hour0.temperature }}"
+        device_class: temperature
+      - unique_id: wetter_in_1h
+        name: Wetter in 1h
+        state: "{{ hour1.condition }}"
+      - unique_id: wetter_in_2h
+        name: Wetter in 2h
+        state: "{{ hour2.condition }}"
+      - unique_id: wetter_in_3h
+        name: Wetter in 3h
+        state: "{{ hour3.condition }}"
+      - unique_id: wetter_in_0h
+        name: Wetter in 0h
+        state: "{{ hour0.condition }}"
+      - unique_id: wetter_in_1h_zeit
+        name: Wetter in 1h Zeit
+        state: >
+          {{ (as_datetime(hour1.datetime) | as_local).hour }}
+      - unique_id: wetter_in_2h_zeit
+        name: Wetter in 2h Zeit
+        state: >
+          {{ (as_datetime(hour2.datetime) | as_local).hour }}
+      - unique_id: wetter_in_3h_zeit
+        name: Wetter in 3h Zeit
+        state: >
+          {{ (as_datetime(hour3.datetime) | as_local).hour }}
+      - unique_id: wetter_in_0h_zeit
+        name: Wetter in 0h Zeit
+        state: >
+          {{ (as_datetime(hour0.datetime) | as_local).hour }}
