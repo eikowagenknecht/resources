@@ -1,4 +1,21 @@
-# list_speakers.py
+"""
+List Speakers: List available speakers for a TTS model
+
+This script lists the available speakers for a given TTS model.
+It has been tested mostly with XTTS2.
+
+Usage:
+    python list-speakers.py
+
+Requirements:
+    - Python 3.11
+    - TTS library
+
+Author: Eiko Wagenknecht
+Date: 02.10.2024
+Web: https://eikowagenknecht.de/posts/creating-free-audiobooks-with-local-tts-models/
+"""
+
 from TTS.api import TTS
 
 

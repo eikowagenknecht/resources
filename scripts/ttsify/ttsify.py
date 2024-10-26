@@ -16,6 +16,7 @@ Requirements:
 
 Author: Eiko Wagenknecht
 Date: 02.10.2024
+Web: https://eikowagenknecht.de/posts/creating-free-audiobooks-with-local-tts-models/
 """
 
 import sys
