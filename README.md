@@ -10,6 +10,7 @@ For detailed explanations, check out the linked blog posts.
 ## Overview
 
 - [Home Assistant / Waveshare 7.5" ePaper Configuration](/configs/homeassistant-epaper) - My configuration files to set up a Waveshare 7.5" ePaper display with Home Assistant ([blog post](https://eikowagenknecht.de/posts/adding-a-waveshare-e-paper-display-to-home-assistant/))
+- [TTSify](/scripts/ttsify) - A script to convert text to speech using XTTS2 ([blog post](https://eikowagenknecht.de/posts/creating-free-audiobooks-with-local-tts-models/))
 - [Image to WebP Converter (Batch)](/scripts/drop-to-webp/drop-to-webp.bat) - Simple drag & drop Windows script to convert and optimize images for the web. I use this to prepare images for my blog.
 - [SwarmUI Presets](/configs/swarm-ui-presets) - Collection of presets imitating the default SDXL and Fooocus presets in SwarmUI
 
@@ -28,4 +29,6 @@ You can find them here:
 
 ## Contact
 
-You can find my contact information on my blog: [eikowagenknecht.de](https://eikowagenknecht.de)
+You can find my contact information on my blog: [eikowagenknecht.de](https://eikowagenknecht.de).
+
+If you find any issues or have suggestions for improvements, please open an issue or a pull request or reach out to me directly.
