@@ -30,6 +30,12 @@
   // Default pattern that matches everything
   const DEFAULT_PATTERN = ".*";
 
+  // Track last detailed message timestamp and pending generic messages
+  let lastDetailedMessageTimestamp = 0;
+  let pendingGenericMessageTimeout = null;
+  const MESSAGE_COOLDOWN = 2000; // 2 seconds in milliseconds
+  const FUTURE_CHECK_DELAY = 500; // 0.5 seconds to wait for a possible detailed message
+
   // Configuration
   const config = {
     get telegramBotToken() {
@@ -286,6 +292,77 @@
     });
   }
 
+  function sendDetailedMessage(title, body) {
+    // Cancel any pending generic message that might be waiting to be sent
+    if (pendingGenericMessageTimeout) {
+      clearTimeout(pendingGenericMessageTimeout);
+      pendingGenericMessageTimeout = null;
+      debugLog("Cancelled pending generic message because a detailed message arrived");
+    }
+
+    // Always update the timestamp for detailed messages - these are prioritized
+    lastDetailedMessageTimestamp = Date.now();
+
+    const message = `<b>${currentDomain} > ${title}</b>\n${body}`;
+
+    return sendTelegramMessage(message)
+      .then(() => {
+        debugLog("Detailed message sent successfully");
+      })
+      .catch((error) => {
+        debugLog(`Failed to send detailed message: ${error}`);
+      });
+  }
+
+  function sendGenericMessage(title, body) {
+    // Check if a detailed message was sent in the past 2 seconds
+    const currentTime = Date.now();
+    const timeSinceLastDetailedMessage = currentTime - lastDetailedMessageTimestamp;
+
+    if (timeSinceLastDetailedMessage < MESSAGE_COOLDOWN) {
+      debugLog(`Generic message suppressed - detailed message sent ${timeSinceLastDetailedMessage}ms ago`);
+      return Promise.resolve(); // Skip sending generic message
+    }
+
+    // Wait briefly to see if a detailed message is coming right after this generic one
+    if (pendingGenericMessageTimeout) {
+      clearTimeout(pendingGenericMessageTimeout);
+      pendingGenericMessageTimeout = null;
+    }
+
+    return new Promise((resolve) => {
+      const messageData = {
+        title: title,
+        body: body
+      };
+
+      pendingGenericMessageTimeout = setTimeout(() => {
+        pendingGenericMessageTimeout = null;
+
+        // Check again if a detailed message came in while we were waiting
+        const newTimeSinceDetailedMessage = Date.now() - lastDetailedMessageTimestamp;
+        if (newTimeSinceDetailedMessage < MESSAGE_COOLDOWN) {
+          debugLog(`Generic message suppressed after delay - detailed message arrived during wait`);
+          resolve();
+          return;
+        }
+
+        // If still no detailed message, proceed with sending the generic one
+        const message = `<b>${currentDomain} > ${messageData.title}</b>\n${messageData.body}`;
+
+        sendTelegramMessage(message)
+          .then(() => {
+            debugLog("Generic message sent successfully after delay check");
+            resolve();
+          })
+          .catch((error) => {
+            debugLog(`Failed to send generic message: ${error}`);
+            resolve();
+          });
+      }, FUTURE_CHECK_DELAY);
+    });
+  }
+
   function sendInitializationMessage() {
     const message = `Notification monitor initialized for ${currentDomain}`;
     sendTelegramMessage(message)
@@ -329,16 +406,13 @@
         `Intercepted desktop notification: ${title}, ${JSON.stringify(options)}`,
       );
 
-      let message = `<b>${currentDomain}</b>\n<b>${title}</b>\n${
-        options.body || "New notification"
-      }`;
+      // Send as detailed message with new format
+      sendDetailedMessage(title, options.body || "New notification");
 
-      // Add data attribute information if it exists
+      // Add data attribute information if it exists (for debugging)
       if (options.data) {
-        message += `\n\nAdditional Data:\n${objectToString(options.data)}`;
+        debugLog(`Additional Data:\n${objectToString(options.data)}`);
       }
-
-      sendTelegramMessage(message);
 
       return new OriginalNotification(title, options);
     }
@@ -376,9 +450,8 @@
         try {
           const pattern = new RegExp(config.titlePattern);
           if (pattern.test(currentTitle)) {
-            sendTelegramMessage(
-              `<b>${currentDomain}</b>\nTab title changed to: ${currentTitle}`,
-            );
+            // Send as generic message with new format, but only if no detailed message was sent recently
+            sendGenericMessage("Tab title changed", currentTitle);
           } else {
             debugLog(
               `Title change ignored - doesn't match pattern: ${config.titlePattern}`,
@@ -389,9 +462,8 @@
             `Error with pattern matching: ${e.message}. Falling back to tracking all changes.`,
           );
           config.titlePattern = DEFAULT_PATTERN;
-          sendTelegramMessage(
-            `<b>${currentDomain}</b>\nTab title changed to: ${currentTitle}`,
-          );
+          // Send as generic message with new format, but only if no detailed message was sent recently
+          sendGenericMessage("Tab title changed", currentTitle);
         }
 
         lastTabTitle = currentTitle;
