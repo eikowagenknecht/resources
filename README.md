@@ -14,9 +14,10 @@ For detailed explanations, check out the linked blog posts.
 - [TTSify](/scripts/ttsify) - A script to convert text to speech using XTTS2 ([blog post](https://eikowagenknecht.de/posts/creating-free-audiobooks-with-local-tts-models/))
 - [Apple Google Photos Sync](/scripts/apple-google-photos-sync) - These scripts help to delete photos in Google Photos that have been deleted in Apple Photos ([blog post](https://eikowagenknecht.de/posts/remove-deleted-iphone-photos-from-google-photos/))
 - [Image to WebP Converter (Batch)](/scripts/drop-to-webp/drop-to-webp.bat) - Simple drag & drop Windows script to convert and optimize images for the web. I use this to prepare images for my blog.
+- [Forwarding browser notifications to Telegram](/scripts/forward-notifications/) - A userscript to forward browser notifications to Telegram ([blog post](https://eikowagenknecht.de/posts/forwarding-browser-notifications-to-telegram-with-a-userscript/))
 - [SwarmUI Presets](/configs/swarm-ui-presets) - Collection of presets imitating the default SDXL and Fooocus presets in SwarmUI
 
-Some of my older posts and tools have their own repositories.
+Some of my posts and tools instead have their own repositories.
 You can find them here:
 
 - [Keyboard layout for the Dygma Defy](https://github.com/eikowagenknecht/keyboard-config)
