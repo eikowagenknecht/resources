@@ -466,7 +466,10 @@ display:
     # Reset Pin
     reset_pin: GPIO26
     reset_duration: 2ms
-    model: 7.50inV2alt
+    # New model with partial refresh support
+    model: 7.50inv2p
+    # Only do a full update every xth time to clear artifacts
+    full_update_every: 30
     # Do not update automatically. We do this by a custom boot script + timer.
     update_interval: never
     # Show in portrait mode
